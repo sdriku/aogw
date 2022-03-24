@@ -1,0 +1,53 @@
+{{ define "header_css" }}{{ end }}
+{{ define "body_classes" }}page-contact{{ end }}
+{{ define "header_classes" }}{{ end }}
+
+{{ define "main" }}
+<div class="intro intro-small">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <h1>{{ .Title }}</h1>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="container">
+  <div class="row">
+    <div class="col-12 col-md-8">
+      {{ .Content }}
+      <ul>
+        <li><strong>Mon Téléphone: </strong>{{ .Site.Data.contact.phone }}</li>
+        <li><strong>Mon adresse Email: </strong><a href="mailto:{{ .Site.Data.contact.email }}">
+            {{ .Site.Data.contact.email }}</a></li>
+        {{ if .Site.Data.contact.address }}
+        <li style="white-space: pre-wrap;"><strong>Address: </strong><br>{{ .Site.Data.contact.address }}</li>
+        {{ end }}
+      </ul>
+    </div>
+    <div class="col-12 col-md-8 my-5">
+      <form action="https://formspree.io/f/xwkyqqky" method="POST">
+        <div>
+          <input type="text" name="name" id="name" class="form-control" placeholder="Votre Nom" required>
+        </div>
+        <div>
+          <input type="email" class="form-control" name="email" id="email" placeholder="Votre Adresse Email" required>
+        </div>
+        <div>
+          <input type="tel" class="form-control" name="phone" id="email" placeholder="Votre Téléphone (facultatif)">
+        </div>
+        <div>
+          <input type="text" name="subject" id="subject" class="form-control" placeholder="Sujet" required>
+        </div>
+        <div>
+          <textarea class="form-control p-2" name="message" id="message" placeholder="Parlez-moi ici de vos besoins actuels" required
+            style="height: 150px;"></textarea>
+        </div>
+        <div>
+          <button class="btn btn-primary" type="submit">Envoyer</button>
+        </div>
+     </form>
+    </div>
+  </div>
+</div>
+{{ end }}
