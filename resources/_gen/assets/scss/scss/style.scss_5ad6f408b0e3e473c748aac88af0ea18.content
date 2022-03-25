@@ -6159,4 +6159,27 @@ html {
   background-color: #eee;
   margin: 0 0 1em; }
 
+/* 22. contact section */
+.form-control {
+  border-radius: 5px;
+  padding: 0 15px 2px;
+  height: 40px;
+  margin-bottom: 15px;
+  border: 1px solid #206dba;
+  font-family: "Open Sans", "Helvetica Neue", Arial, sans-serif, -apple-system;
+  font-weight: 600;
+  font-size: 14px;
+  color: #000000; }
+  .form-control:focus {
+    border-color: #206dba;
+    box-shadow: none !important; }
+  .form-control::placeholder {
+    color: #f4882a; }
+
+.btn_custom {
+  border-radius: 20px;
+  padding: 0 15px 2px;
+  height: 100px;
+  color: #f4882a; }
+
 /*# sourceMappingURL=style.css.map */

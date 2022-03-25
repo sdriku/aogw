@@ -5,52 +5,44 @@ icon: 'services/service-icon-5.png'
 featured: true
 draft: false
 heroHeading: 'Gestion de Website'
-heroSubHeading: 'Vous souhaitez créer un site rapide, adaptatif, accessible, bien référencé, le tout sans dépenser les 3.000€ que vous facturerais une agence web?
-Cela est possible, voici ce que je vous propose.'
+summary: 'Vous souhaitez créer un site rapide, adaptatif, accessible, bien référencé, le tout sans dépenser les 3.000€ que vous facturerais une agence web?'
 heroBackground: 'services/gestion-website.jpg'
 ---
 
 Vous souhaitez créer un site rapide, adaptatif, accessible, bien référencé, le tout sans dépenser les 3.000€ que vous facturerais une agence web?
 Cela est possible, voici ce que je vous propose.
 
-## Ne verba patulosque numen vix libet
+## Les dernières années ont connu le retour en force des sites internet majoritaires au début du siècle: les sites dits statiques.
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+Les sites dits dynamiques avaient à l'époque rapidement pris la main, notamment grâce à l'avènement des outils de création de website type Wordpress ou Drupal. Ces outils permettent en effet à un chef d'Entreprise de créer lui-même son site internet sans avoir de connaissance en programmation.
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+Cependant cette "facilité" offerte aux clients s'accompagne de nombreux inconvénients, que vous avez peut-être déjà rencontré:
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+1. Lenteurs prononcées provoquées par les ligne de codes inutiles et les nombreux plugins nécessaires au fonctionnement de votre site
+2. Failles de sécurité (un site dynamique implique la présence d'une base de données, lesquelles sont des cibles de choix pour les hackers) pouvant entrainer la perte temporaire de votre site et une maintenance coûteuse en temps
+3. Sauvegarde mensuelle indispensable
+4. Souscription payante à un hébergeur
+5. Référencement de votre site plus compliqué (notamment depuis que la rapidité de chargement de votre site est devenu un critère de référencement chez Google)
 
-## Postquam tamen
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
+## Qu'en est-il des sites dits Statiques?
 
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
+Ce type de site résoud chacun des problèmes listés précédemment:
 
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+- Rapidité! Votre site statique est lu directement par votre explorateur internet. Pas de voyage nécessaire vers une quelconque base de données, vous serez bluffé
+- Sécurité! Par définition un site statique n'est pas associé à une base de données, il n'y a donc aucun moyen de faire tomber votre site. Dans le cas où un hacker parvenais à effacer vos fichiers du serveur (très très compliqué), il suffirait de recharger vos fichiers sur l'espace de stockage (ce que je vous ferais en 5mn chrono).
+- Aucune maintenance en vue, tout juste pouvez-vous sauvegarder vos fichiers après chaque mise à jour de votre contenu (cela prend 10 secondes).
+- L'hébergement des sites statiques est gratuit, oui vous avez bien lu. Je me charge de vous créér les accès, et je vous passe la main au moment du paiement final / livraison du site.
+- Référencement de votre site statique est un plaisir. Je vous fournirai tous les champs "méta" dédiés, que vous pourrez remplir vous-même avec vos mots clés. La rapidité inhérente à un site statique vous permettra aussi de figurer en bonne place dans le classement Google.
+
+
+## Mais dans ce cas, pourquoi tout le monde ne crée pas de site statique?
+
+ Car un site statique présente certaines limitations, que je passe en revue ci-dessous. Si vous êtes dans l'un des cas suivants, alors un site statique n'est probablement pas pour vous:
+
+1. 
+2. 
+3. 
+4. 
+5. 
