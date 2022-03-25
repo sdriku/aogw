@@ -3,7 +3,7 @@ title: 'Gestion Comptable'
 date: 2018-11-28T15:15:34+10:00
 icon: 'services/service-icon-4.png'
 featured: true
-draft: false
+weight: 3
 heroHeading: 'Gestion Comptable'
 summary: 'Vous avez souvent plusieurs semaines de retard dans l’enregistrement de vos écritures comptables?
 Confiez-moi leur saisie et évitez ainsi le stress de fin d’exercice.'

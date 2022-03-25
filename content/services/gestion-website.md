@@ -3,7 +3,7 @@ title: 'Gestion de Website'
 date: 2018-11-28T15:14:54+10:00
 icon: 'services/service-icon-5.png'
 featured: true
-draft: false
+weight: 5
 heroHeading: 'Gestion de Website'
 summary: 'Vous souhaitez créer un site rapide, adaptatif, accessible, bien référencé, le tout sans dépenser les 3.000€ que vous facturerais une agence web?'
 heroBackground: 'services/gestion-website.jpg'

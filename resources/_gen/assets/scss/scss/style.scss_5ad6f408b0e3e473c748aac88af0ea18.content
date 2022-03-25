@@ -5750,6 +5750,7 @@ ul.social {
   white-space: nowrap;
   display: inline-block;
   padding: 7px 15px;
+  margin: 20px;
   background: #f4882a;
   font-size: 15px;
   font-weight: 600;
@@ -6164,6 +6165,7 @@ html {
   border-radius: 5px;
   padding: 0 15px 2px;
   height: 40px;
+  width: 80%;
   margin-bottom: 15px;
   border: 1px solid #206dba;
   font-family: "Open Sans", "Helvetica Neue", Arial, sans-serif, -apple-system;

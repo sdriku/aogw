@@ -2,8 +2,8 @@
 title: 'Pourquoi me faire confiance?'
 weight: 2
 background: ''
-button: 'Qui suis-je'
-buttonLink: 'about'
+button: 'Contactez-moi'
+buttonLink: 'contact'
 ---
 
 - Redonnez Priorité à votre coeur d’activité
