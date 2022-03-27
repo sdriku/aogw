@@ -38,12 +38,14 @@
   {{ end }}
 
   {{ if .Site.IsServer }}
-  <script type="text/javascript" src="{{ $scripts.RelPermalink }}"></script>
+  <script type="text/javascript" src="{{ $scripts.RelPermalink }}"></scrip>
   {{ else }}
-  <script type="text/javascript" src="{{ ($scripts | minify | fingerprint).RelPermalink }}"></script>
+  <script type="text/javascript" src="{{ ($scripts | minify | fingerprint).RelPermalink }}"></scrip>
   {{ end }}
 
   {{ partial "google-analytics.html" . }}
+
+  <script defer src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
 </body>
 </html>
