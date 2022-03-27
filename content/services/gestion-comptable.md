@@ -5,8 +5,7 @@ icon: 'services/service-icon-4.png'
 featured: true
 weight: 3
 heroHeading: 'Gestion Comptable'
-summary: 'Vous avez souvent plusieurs semaines de retard dans l’enregistrement de vos écritures comptables?
-Confiez-moi leur saisie et évitez ainsi le stress de fin d’exercice.'
+summary: 'Vous avez souvent plusieurs semaines de retard dans l’enregistrement de vos écritures comptables? Confiez-moi leur saisie et évitez ainsi le stress de fin d’exercice.'
 heroBackground: 'services/gestion-comptable.jpg'
 ---
 
