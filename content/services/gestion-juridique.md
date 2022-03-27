@@ -10,16 +10,22 @@ summary: 'Vous ne souhaitez plus rédiger vous-même vos assignations, conclusio
 heroBackground: 'services/gestion-juridique.jpg'
 ---
 
-## GESTION JURIDIQUE POUR LES AVOCATS, NOTAIRES…
+Vous ne souhaitez plus rédiger vous-même vos assignations, conclusions, requêtes, compte-rendu, contrats? Déléguez ces travaux.
 
-A. OFFICE GESTION WEB propose également ses services dans le juridique, que ce soit en présentiel ou en distanciel, tels que :
+## Gestion juridique pour professions libérales (avocats, notaires, médecins…)
 
-1. prise de RDV physique ou téléphonique
-2. accueil du client (toujours avec le sourire)
-3. prise de notes en sténographie
-4. dictées numériques avec retranscription (conclusions, assignations, contrats...)
+A. OFFICE GESTION WEB vous propose de gérer votre secrétariat juridique soit en présentiel, soit en télétravail.
 
+- -prise de RDV physique ou téléphonique,
+- -gestion d’agenda (Google Agenda ou autres) ,
+- -accueil du client (toujours avec le sourire),
+- -contact avec les juridictions et autres,
+- -prise de notes rapide en sténographie,
+- -transcription ou retranscription de dictées numériques (courrier, courriel, assignation, conclusion, requête, compte-rendu, contrat….),
+- -préparation de dossiers de plaidoiries.
 
-La retranscription est effectuée avec le logiciel EXPRESS SCRIBE.
+La transcription ou retranscription est faite avec le logiciel EXPRESS SCRIBE.
 
-Sans oublier la prise de notes rapide en STÉNOGRAPHIE (très appréciée par mes clients). J’utilise cette méthode depuis plus de 30 ans.
+La prise de notes rapide en sténographie est effectuée avec la méthode PREVOST DELAUNAY, méthode que j’utilise depuis plus de 30 ans. La sténographie est faite de formes géométriques composée de point, trait, crochet, courbes…
+
+## Certaines de ces prestations peuvent être faites en télétravail. N’hésitez pas à me contacter !

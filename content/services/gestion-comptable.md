@@ -29,3 +29,15 @@ Actuellement, Armelle travaille avec un de ses clients qui est Expert-Comptable,
 
 Vous pouvez me faire confiance !
 
+
+QUELS SONT LES LOGICIELS DE COMPTABILITÉ UTILISES ?
+
+- -La gamme SAGE,
+- -EBP,
+- -ZEPHYR,
+- QUADRATUS de CEGID
+
+Votre Cabinet comptable ou votre Expert-comptable saisit vos écritures comptables sur un logiciel méconnu de A. OFFICE GESTION WEB ? cela importe peu, Armelle sait s’adapter, mais prévoyez un léger temps d’adaptation.
+
+## N’oubliez pas : la saisie de vos écritures comptables peut se faire en télétravail, solution plus économique pour mes clients.
+
