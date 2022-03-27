@@ -5,8 +5,7 @@ icon: 'services/service-icon-1.png'
 featured: true
 weight: 1
 heroHeading: 'Gestion Administrative'
-summary: 'Vous n’avez plus temps pour gérer votre secrétariat, vous ne voulez pas embaucher une secrétaire ou une assistante, vous voulez diminuer vos coûts !
-Confiez-moi votre Gestion administrative afin de gagner du temps et de l’argent.'
+summary: 'Vous n’avez plus temps pour gérer votre secrétariat, vous ne voulez pas embaucher une secrétaire ou une assistante, vous voulez diminuer vos coûts ! Confiez-moi votre Gestion administrative afin de gagner du temps et de l’argent.'
 heroBackground: 'services/gestion-administrative.jpg'
 ---
 
