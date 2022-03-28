@@ -25,6 +25,7 @@ Cependant cette "facilité" offerte aux clients s'accompagne de nombreux inconv�
 4. Souscription payante à un hébergeur
 5. Référencement de votre site plus compliqué (notamment depuis que la rapidité de chargement de votre site est devenu un critère de référencement chez Google)
 
+{{< img src="/img/PireSiteWebDuMonde.png" alt="alt" >}}
 
 
 ## Qu'en est-il des sites dits Statiques?
@@ -32,7 +33,7 @@ Cependant cette "facilité" offerte aux clients s'accompagne de nombreux inconv�
 Ce type de site résoud chacun des problèmes listés précédemment:
 
 - Rapidité! Votre site statique est lu directement par votre explorateur internet. Pas de voyage nécessaire vers une quelconque base de données, vous serez bluffé
-- Sécurité! Par définition un site statique n'est pas associé à une base de données, il n'y a donc aucun moyen de faire tomber votre site. Dans le cas où un hacker parvenais à effacer vos fichiers du serveur (très très compliqué), il suffirait de recharger vos fichiers sur l'espace de stockage (ce que je vous ferais en 5mn chrono).
+- Sécurité! Par définition un site statique n'est pas associé à une base de données, il n'y a donc aucun moyen de faire tomber votre site.
 - Aucune maintenance en vue, tout juste pouvez-vous sauvegarder vos fichiers après chaque mise à jour de votre contenu (cela prend 10 secondes).
 - L'hébergement des sites statiques est gratuit, oui vous avez bien lu. Je me charge de vous créér les accès, et je vous passe la main au moment du paiement final / livraison du site.
 - Référencement de votre site statique est un plaisir. Je vous fournirai tous les champs "méta" dédiés, que vous pourrez remplir vous-même avec vos mots clés. La rapidité inhérente à un site statique vous permettra aussi de figurer en bonne place dans le classement Google.
