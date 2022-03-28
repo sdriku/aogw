@@ -1,6 +1,7 @@
 ---
 title: 'Retranscription'
 date: 2021-11-28T15:15:26+10:00
+description : ""
 icon: 'services/service-icon-3.png'
 featured: true
 weight: 4

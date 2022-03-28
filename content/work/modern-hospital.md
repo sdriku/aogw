@@ -1,6 +1,7 @@
 ---
 title: 'Modern Hospital'
 date: 2018-11-18T12:33:46+10:00
+description : ""
 draft: false
 weight: 2
 heroHeading: 'Modern Hospital Design'

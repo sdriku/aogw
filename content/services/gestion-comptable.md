@@ -1,6 +1,7 @@
 ---
 title: 'Gestion Comptable'
 date: 2021-11-28T15:15:34+10:00
+description : ""
 icon: 'services/service-icon-4.png'
 featured: true
 weight: 3

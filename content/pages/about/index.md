@@ -1,6 +1,7 @@
 ---
 title: 'About'
 date: 2018-12-06T09:29:16+10:00
+description : ""
 layout: 'about'
 heroHeading: 'Qui suis-je'
 heroSubHeading: "Je me prénomme Armelle, je suis assistante de direction avec plus de 30 années d’expérience."
