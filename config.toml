@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "fr"
-title = "A. Office Web Gestion"
+title = "A. Office Gestion Web"
 themesDir = "themes"
 theme = "hugo-hero-theme-master"
 
@@ -13,7 +13,7 @@ theme = "hugo-hero-theme-master"
   google_analytics_id=""
 
   [params.logo]
-    mobile = "images/aogw-logo-w200.png"
+    mobile = "images/aogw-logo-w400.png"
     alt = "Logo AOGW"
 
   [params.homepage_meta_tags]

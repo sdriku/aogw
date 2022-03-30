@@ -5565,11 +5565,11 @@ ol {
             margin-left: 0; } }
 .logo {
   display: block;
-  width: 120px;
+  width: 150px;
   padding: 10px 0 10px 0; }
   @media (min-width: 576px) {
     .logo {
-      width: 200px; } }
+      width: 300px; } }
   .logo img {
     width: 100%;
     height: auto; }
