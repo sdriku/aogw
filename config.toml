@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "fr"
-title = "Armelle, votre Assistante de Gestion"
+title = "A. Office Web Gestion"
 themesDir = "themes"
 theme = "hugo-hero-theme-master"
 

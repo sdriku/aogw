@@ -32,6 +32,8 @@
     <div class="col-12">
       <h2 class="text-center mb-3" style="color:#206dba; padding-bottom: 25px;">Mes Prestations</h2>
     </div>
+    <div class="col-12">
+    <h2 class="text-center mb-3"><a href="https://www.servicemalin.com/v/kmxAYmJAwTQZ" target="blank"><img width="120" height="120" src="social/verifie.png" title="Mon profil chez Service Malin" alt="Mon profil chez Service Malin"/></a></h2></div>
     {{ range first 6 (sort $services ".Params.weight") }}
     <div class="col-12 col-md-6 mb-5">
       {{ .Render "summary" }}
