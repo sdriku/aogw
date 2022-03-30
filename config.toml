@@ -1,5 +1,5 @@
 baseURL = "/"
-languageCode = "en-us"
+languageCode = "fr"
 title = "Armelle, votre Assistante de Gestion"
 themesDir = "themes"
 theme = "hugo-hero-theme-master"
@@ -14,11 +14,6 @@ theme = "hugo-hero-theme-master"
 
   [params.logo]
     mobile = "images/aogw-logo-w200.png"
-    mobile_height = "71px"
-    mobile_width = "100px"
-    desktop = "images/aogw-logo-w400.png"
-    desktop_height = "283px"
-    desktop_width = "400px"
     alt = "Logo AOGW"
 
   [params.homepage_meta_tags]

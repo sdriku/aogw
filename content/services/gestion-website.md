@@ -25,8 +25,7 @@ Cependant cette "facilité" offerte aux clients s'accompagne de nombreux inconv�
 4. Souscription payante à un hébergeur
 5. Référencement de votre site plus compliqué (notamment depuis que la rapidité de chargement de votre site est devenu un critère de référencement chez Google)
 
-{{< img src="/img/PireSiteWebDuMonde.png" alt="alt" >}}
-
+{{< img src="/img/PireSiteWebDuMonde-w640.png" alt="alt" >}}
 
 ## Qu'en est-il des sites dits Statiques?
 

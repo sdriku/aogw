@@ -3,10 +3,11 @@
   background-repeat: no-repeat;
   // background-position: top center;
   background-blend-mode: overlay;
-  background-color: rgb(83, 73, 73);
+  // background-color: rgb(83, 73, 73);
   height: 400px;
   position: relative;
   padding-top: 60px;
+
   .container {
     height: 100%;
     display: flex;
@@ -21,6 +22,7 @@
   .hero-text {
     flex: 0;
     color: #ffffff;
+    // color: black;
     margin: auto 0;
     h1 {
       font-size: 3rem;

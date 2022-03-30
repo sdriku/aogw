@@ -5,7 +5,7 @@
   .footer-inner {
     display: flex;
     justify-content: space-between;
-    flex-direction: column;
+    flex-direction: row;
     align-items: flex-start;
     @include media-breakpoint-up(sm) {
       justify-content: space-between;

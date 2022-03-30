@@ -21,7 +21,7 @@ collections:
       
   - name: 'avantages'
     label: 'Avantages'
-    folder: 'content/avantages'
+    folder: 'content/work'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
