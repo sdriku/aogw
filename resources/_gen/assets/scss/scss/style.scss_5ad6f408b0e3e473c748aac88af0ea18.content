@@ -5992,6 +5992,7 @@ ul.social {
   background-size: cover;
   background-repeat: no-repeat;
   background-blend-mode: overlay;
+  background-color: #534949;
   height: 400px;
   position: relative;
   padding-top: 60px; }
@@ -6006,7 +6007,7 @@ ul.social {
     height: inherit; }
   .hero-image .hero-text {
     flex: 0;
-    color: #014382;
+    color: #ffffff;
     margin: auto 0; }
     .hero-image .hero-text h1 {
       font-size: 3rem; }
@@ -6071,6 +6072,9 @@ html {
 
 .bg-secondary {
   background-color: #014382; }
+
+.service-malin {
+  margin-top: -4%; }
 
 .page-services-single .content > p:first-of-type {
   font-size: 1.2rem;

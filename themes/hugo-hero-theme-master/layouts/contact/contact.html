@@ -3,18 +3,10 @@
 {{ define "header_classes" }}{{ end }}
 
 {{ define "main" }}
-<div class="intro intro-small">
-  <div class="container">
-    <div class="row">
-      <div class="col-12">
-        <h1>{{ .Title }}</h1>
-      </div>
-    </div>
-  </div>
-</div>
+{{ partial "hero-image-setheight.html" (dict "background" .Params.heroBackground "heading" .Params.heroHeading "subheading" .Params.heroSubHeading "content" .)}}
 <div class="container">
   <div class="row">
-    <div class="col-12 col-md-8">
+    <div class="col-12 col-md-8 mt-5 ml-6">
       {{ .Content }}
       <ul>
         <li><strong>Mon Téléphone: </strong>{{ .Site.Data.contact.phone }}</li>
