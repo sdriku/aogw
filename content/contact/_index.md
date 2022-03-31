@@ -6,6 +6,10 @@ description: Voici les numéros de téléphone et adresse email d'Armelle, votre
 heroHeading: 'Contactez-moi'
 heroSubHeading: 'Décrivez-moi vos besoins du moment, et nous prendrons rendez-vous pour en discuter en détails.'
 heroBackground: 'images/new-hero-w1900.jpg'
+iconPhone: 'contact/icon-phone.png'
+altPhone: 'numéro de téléphone'
+iconEmail: 'contact/icon-email.png'
+altEmail: 'adresse email'
 
 ---
 

@@ -6008,7 +6008,7 @@ ul.social {
   .hero-image .hero-text {
     flex: 0;
     color: #ffffff;
-    margin: auto 0; }
+    margin-top: -5%; }
     .hero-image .hero-text h1 {
       font-size: 3rem; }
       @media (min-width: 768px) {

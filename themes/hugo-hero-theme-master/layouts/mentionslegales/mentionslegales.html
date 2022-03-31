@@ -1,0 +1,14 @@
+{{ define "header_css" }}{{ end }}
+{{ define "body_classes" }}page-contact{{ end }}
+{{ define "header_classes" }}{{ end }}
+
+{{ define "main" }}
+{{ partial "hero-image-setheight.html" (dict "background" .Params.heroBackground "heading" .Params.heroHeading "subheading" .Params.heroSubHeading "content" .)}}
+<div class="container">
+  <div class="row">
+    <div class="col-12 col-md-8 mt-5 ml-6">
+      {{ .Content }}
+    </div>
+  </div>
+</div>
+{{ end }}

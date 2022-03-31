@@ -49,6 +49,7 @@ theme = "hugo-hero-theme-master"
     name = "Contact"
     url = "/contact/"
     weight = 5
+    
 
 [permalinks]
   post = "/:year/:month/:day/:slug/"

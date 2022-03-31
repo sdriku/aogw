@@ -9,12 +9,9 @@
     <div class="col-12 col-md-8 mt-5 ml-6">
       {{ .Content }}
       <ul>
-        <li><strong>Mon Téléphone: </strong>{{ .Site.Data.contact.phone }}</li>
-        <li><strong>Mon adresse Email: </strong><a href="mailto:{{ .Site.Data.contact.email }}">
+        <li class="mb-2"><img height="80" width="80" src="{{ .Params.iconPhone | relURL }}" alt="{{ .Params.altPhone }}" class="mr-2"/>{{ .Site.Data.contact.phone }}</li>
+        <li><img height="80" width="80" src="{{ .Params.iconEmail | relURL }}" alt="{{ .Params.altEmail }}" class="mr-2"/><a href="mailto:{{ .Site.Data.contact.email }}">
             {{ .Site.Data.contact.email }}</a></li>
-        {{ if .Site.Data.contact.address }}
-        <li style="white-space: pre-wrap;"><strong>Address: </strong><br>{{ .Site.Data.contact.address }}</li>
-        {{ end }}
       </ul>
     </div>
   </div>
