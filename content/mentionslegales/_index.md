@@ -5,7 +5,10 @@ date: 2018-02-22T17:01:34+07:00
 description: Voici les Mentions légales d'A. Office Gestion Web.
 heroHeading: 'Mentions légales'
 heroSubHeading: ''
-heroBackground: 'images/new-hero-w1900.jpg'
+heroBackgroundsm: 'images/aogw-hero-w550.jpg'
+heroBackgroundmd: 'images/aogw-hero-w950.jpg'
+heroBackgroundlg: 'images/aogw-hero-w1250.jpg'
+heroBackgroundxl: 'images/aogw-hero-w1900.jpg'
 
 ---
 

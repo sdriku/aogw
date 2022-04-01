@@ -1,4 +1,31 @@
-<div id="hero" class="hero-image hero-image-setheight" style="background-image: url('{{ .background | relURL }}')">
+<style type="text/css">
+
+  @media (max-width: 576px) {
+  .bg-image {
+  background-image: url('{{ .backgroundsm | relURL }}');
+  }
+}
+
+  @media (min-width: 577px) {
+  .bg-image {
+  background-image: url('{{ .backgroundmd | relURL }}');
+  }
+}
+
+  @media (min-width: 992px) {
+  .bg-image {
+  background-image: url('{{ .backgroundlg | relURL }}')
+    }
+  }
+
+  @media (min-width: 1300px) {
+  .bg-image {
+  background-image: url('{{ .backgroundxl | relURL }}')
+    }
+  }
+  
+</style>
+<div id="hero" class="bg-image hero-image hero-image-setheight">
   <div class="container ">
     <div class="hero-text">
       <span class="hero-section">{{ .section }}</span>

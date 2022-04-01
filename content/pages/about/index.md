@@ -5,7 +5,10 @@ description : ""
 layout: 'about'
 heroHeading: 'Qui suis-je'
 heroSubHeading: "Je me prénomme Armelle, je suis assistante de direction avec plus de 30 années d’expérience."
-heroBackground: 'images/new-hero-w1900.jpg'
+heroBackgroundsm: 'images/aogw-hero-w550.jpg'
+heroBackgroundmd: 'images/aogw-hero-w950.jpg'
+heroBackgroundlg: 'images/aogw-hero-w1250.jpg'
+heroBackgroundxl: 'images/aogw-hero-w1900.jpg'
 ---
 
 <div>

@@ -3,5 +3,7 @@
 {{ define "header_classes" }}{{ end }}
 
 {{ define "main" }}
+{{ partial "hero-image-setheight.html" (dict "backgroundsm" .Params.heroBackgroundsm "backgroundmd" .Params.heroBackgroundmd "backgroundlg" .Params.heroBackgroundlg "backgroundxl" .Params.heroBackgroundxl "heading" .Params.heroHeading "subheading" .Params.heroSubHeading "content" .)}}
+
 {{ .Content }}
 {{ end }}

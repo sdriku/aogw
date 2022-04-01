@@ -1,4 +1,32 @@
-<div class="hero-image hero-image-fullscreen" style="background-image: url('{{ .background | relURL }}');">
+<style type="text/css">
+
+    @media (max-width: 576px) {
+    .bg-hero-image {
+    background-image: url('{{ .backgroundsm | relURL }}');
+    }
+  }
+
+    @media (min-width: 577px) {
+    .bg-hero-image {
+    background-image: url('{{ .backgroundmd | relURL }}');
+    }
+  }
+
+    @media (min-width: 992px) {
+    .bg-hero-image {
+    background-image: url('{{ .backgroundlg | relURL }}')
+      }
+    }
+
+    @media (min-width: 1300px) {
+    .bg-hero-image {
+    background-image: url('{{ .backgroundxl | relURL }}')
+      }
+    }
+    
+</style>
+
+<div class="bg-hero-image hero-image hero-image-fullscreen">
   <div class="container ">
     <div class="hero-text">
       <span class="hero-section">{{ .section }}</span>
