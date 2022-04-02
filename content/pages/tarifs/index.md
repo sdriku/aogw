@@ -3,7 +3,7 @@ title: 'Mes Tarifs'
 date: 2018-12-06T09:29:16+10:00
 description : ""
 heroHeading: 'Mes Tarifs'
-heroSubHeading: "Voici mes tarifs sur site et à distance."
+heroSubHeading: "Voici les tarifs d'A. Office Gestion Web sur site et à distance."
 heroBackgroundsm: 'images/aogw-hero-w550.jpg'
 heroBackgroundmd: 'images/aogw-hero-w950.jpg'
 heroBackgroundlg: 'images/aogw-hero-w1250.jpg'

@@ -1,7 +1,7 @@
 ---
 title: 'Gestion Juridique'
 date: 2021-11-18T12:33:46+10:00
-description : ""
+description : "A. Office Gestion Web assiste également les avocats et notaires: transcription ou retranscription de dictées numériques (courrier, courriel, assignation, conclusion, requête, compte-rendu, contrat….) - préparation de dossiers de plaidoiries."
 icon: 'services/service-icon-6.png'
 draft: false
 featured: true

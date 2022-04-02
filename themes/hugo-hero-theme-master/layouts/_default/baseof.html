@@ -5,7 +5,11 @@
   <meta charset="utf-8">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
   <title>{{ block "title" . }}{{ .Title }} - {{ .Site.Title }}{{ end }}</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=0.86, maximum-scale=5.0, minimum-scale=0.86">
+  <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
+  <link rel="preload" href="https://fonts.googleapis.com/css?family=Lato:400|Open+Sans:400,700">
+  <link rel="dns-prefetch" href="{{ .Site.BaseURL }}">
+  <link rel="preconnect" href="{{ .Site.BaseURL }}">
   {{ block "meta_tags" . }}{{end}}
   <link rel="icon" href="{{ .Site.BaseURL }}favicon.ico">
 
@@ -45,7 +49,7 @@
 
   {{ partial "google-analytics.html" . }}
 
-  <script defer src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
 </body>
 </html>

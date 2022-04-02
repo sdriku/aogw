@@ -1,7 +1,7 @@
 ---
 title: 'Retranscription'
 date: 2021-11-28T15:15:26+10:00
-description : ""
+description : "A. Office Gestion Web retranscrit différents types de documents: rédaction de compte-rendu de réunion pour les Comités d’entreprise, les CHSCT, les AGs - rédaction de procès-verbaux - rédaction de thèses, séminaires, mémoires - dictée numérique - conclusions, requêtes, assignations."
 icon: 'services/service-icon-3.png'
 featured: true
 weight: 4
@@ -23,7 +23,8 @@ la rédaction de procès-verbaux,
 la rédaction de thèses, séminaires, mémoires…
 la dictée numérique,
 les conclusions, requêtes, assignations…
-Ses retranscriptions peuvent être effectuées selon 3 méthodes (au choix du client) :
+
+Ces retranscriptions peuvent être effectuées selon 3 méthodes (au choix du client) :
 
 - -le MOT A MOT ou VERBATIM ou SOCIOLOGIQUE – l’on retranscrit exactement ce qui est formulé, y compris les hésitations, les répétitions, les erreurs de langage,
 

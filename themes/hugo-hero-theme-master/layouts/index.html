@@ -4,15 +4,20 @@
 {{ define "header_classes" }}header-transparent{{ end }}
 
 {{ define "meta_tags" }}
-<meta name="description" content="{{ .Site.Params.homepage_meta_tags.meta_description }}" />
-<meta property="og:title" content="{{ .Site.Params.homepage_meta_tags.meta_og_title }}" />
-<meta property="og:type" content="{{ .Site.Params.homepage_meta_tags.meta_og_type }}" />
-<meta property="og:url" content="{{ .Site.Params.homepage_meta_tags.meta_og_url }}" />
-<meta property="og:image" content="{{ .Site.Params.homepage_meta_tags.meta_og_image }}" />
-<meta property="og:description" content="{{ .Site.Params.homepage_meta_tags.meta_og_description }}" />
-<meta name="twitter:card" content="{{ .Site.Params.homepage_meta_tags.meta_twitter_card }}" />
-<meta name="twitter:site" content="{{ .Site.Params.homepage_meta_tags.meta_twitter_site }}" />
-<meta name="twitter:creator" content="{{ .Site.Params.homepage_meta_tags.meta_twitter_creator }}" />
+<meta property="og:site_name" content="{{ $.Site.Title }}" />
+<meta property="og:title" content="{{ $.Site.Title }}" />
+{{ if .IsPage }}
+  <title>{{ .Title }} | {{ $.Site.Title }}</title>
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="{{ .Title }}" />
+  <meta property="og:description" content="{{ .Description }}" />
+  <meta name="description" content="{{ .Description }}" />
+{{ else }}
+  <title>{{ $.Site.Title }}</title>
+  <meta property="og:title" content="{{ $.Site.Title }}" />
+  <meta property="og:description" content="{{ site.Params.description }}" />
+  <meta name="description" content="{{ site.Params.description }}" />
+{{ end }}
 {{ end }}
 
 {{ define "main" }}

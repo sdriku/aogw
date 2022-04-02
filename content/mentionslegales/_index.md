@@ -2,7 +2,7 @@
 
 title: 'Mentions Légales'
 date: 2018-02-22T17:01:34+07:00
-description: Voici les Mentions légales d'A. Office Gestion Web.
+description: Voici les Mentions légales d'A. Office Gestion Web, votre Assistante de Direction.
 heroHeading: 'Mentions légales'
 heroSubHeading: ''
 heroBackgroundsm: 'images/aogw-hero-w550.jpg'

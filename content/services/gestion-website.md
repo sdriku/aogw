@@ -1,7 +1,7 @@
 ---
 title: 'Gestion de Website'
 date: 2021-11-28T15:14:54+10:00
-description : ""
+description : "A. Office Gestion Web vous crée un site internet statique: rapide, sécurisé, sans maintenance nécessaire et sans coût d'hébergement. Je peux vous créer un site vitrine, un petit eCommerce, ainsi qu'un site simple d'une seule page présentant un nouveau produit ou un évènement à venir."
 icon: 'services/service-icon-5.png'
 featured: true
 weight: 5

@@ -1,7 +1,7 @@
 ---
 title: 'Gestion Administrative'
 date: 2021-11-18T12:33:46+10:00
-description : ""
+description : "A. Office Gestion Web peut prendre en charge votre Gestion Administrative: prise de RDV - accueil téléphonique - tenue d’agenda - gestion des mails - rédaction de courriers et courriels - prise de notes rapide - gestion de devis et factures - relances paiement etc"
 icon: 'services/service-icon-1.png'
 featured: true
 weight: 1
