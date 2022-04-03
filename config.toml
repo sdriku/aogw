@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://www.assist-secretariat.com/"
 languageCode = "fr"
 title = "A. Office Gestion Web assiste les dirigeants d'Entreprise, sur site ou à distance."
 themesDir = "themes"
