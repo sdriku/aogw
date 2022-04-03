@@ -61,5 +61,5 @@ priority = 0.5
     
 
 [permalinks]
-  post = "/:year/:month/:day/:slug/"
+  post = "/:year/:month/:day/:title/"
   pages = "/:filename/"
