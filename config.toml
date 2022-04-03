@@ -15,7 +15,6 @@ theme = "hugo-hero-theme-master"
 
   [params.logo]
     mobile = "images/aogw-logo-200w.png"
-    alt = "Logo AOGW"
     desktop = "images/aogw-logo-400w.png"
     alt = "Logo AOGW"
 
