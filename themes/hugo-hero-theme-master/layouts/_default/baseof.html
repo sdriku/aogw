@@ -21,6 +21,8 @@
 
   {{ block "header_css" . }}{{ end }}
 
+  <script defer src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
 </head>
 
 <body class='page {{ block "body_classes" . }}{{ end }}'>
@@ -39,15 +41,9 @@
   {{ block "footer_js" . }}
   {{ end }}
 
-  {{ if .Site.IsServer }}
-  <script type="text/javascript" src="{{ $scripts.RelPermalink }}"></script>
-  {{ else }}
-  <script type="text/javascript" src="{{ ($scripts | minify | fingerprint).RelPermalink }}"></script>
-  {{ end }}
 
   {{ partial "google-analytics.html" . }}
 
-  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
 </body>
 </html>

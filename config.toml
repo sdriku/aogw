@@ -1,9 +1,15 @@
-baseURL = "https://www.assist-secretariat.com/"
+baseURL = "/"
 languageCode = "fr"
-title = "A. Office Gestion Web assiste les dirigeants d'Entreprise, sur site ou à distance."
+title = "AOGW"
 themesDir = "themes"
 theme = "hugo-hero-theme-master"
+enableRobotsTXT = true
+canonifyURLs = true
 
+[sitemap]
+changefreq = "weekly"
+filename = "sitemap.xml"
+priority = 0.5
 
 [module]
   [module.hugoVersion]
