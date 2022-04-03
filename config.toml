@@ -61,5 +61,6 @@ priority = 0.5
     
 
 [permalinks]
+  prestations = "/prestations/:title/"
   post = "/:year/:month/:day/:title/"
   pages = "/:filename/"
