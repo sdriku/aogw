@@ -12,8 +12,10 @@ canonifyURLs = true
     extended = true
     min = "0.92.0"
     
-[minify]
-disableXML = true
+[sitemap]
+changefreq = "weekly"
+filename = "sitemap.xml"
+priority = 0.5
     
 [params]
   google_analytics_id=""
