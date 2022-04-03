@@ -7,10 +7,10 @@ featured: true
 weight: 5
 heroHeading: 'Gestion de Website'
 summary: 'Vous souhaitez créer un site rapide, adaptatif, accessible, bien référencé, le tout sans dépenser les 3.000€ que vous facturerais une agence web?'
-heroBackgroundsm: 'prestations/gestion-administrative-w550.jpg'
-heroBackgroundmd: 'prestations/gestion-administrative-w950.jpg'
-heroBackgroundlg: 'prestations/gestion-administrative-w1250.jpg'
-heroBackgroundxl: 'prestations/gestion-administrative-w1900.jpg'
+heroBackgroundsm: 'prestations/gestion-website-w550.jpg'
+heroBackgroundmd: 'prestations/gestion-website-w950.jpg'
+heroBackgroundlg: 'prestations/gestion-website-w1250.jpg'
+heroBackgroundxl: 'prestations/gestion-website-w1900.jpg'
 ---
 
 Vous souhaitez créer un site rapide, adaptatif, accessible, bien référencé, le tout sans dépenser les 3.000€ que vous facturerais une agence web?

@@ -7,10 +7,10 @@ featured: true
 weight: 3
 heroHeading: 'Gestion Comptable'
 summary: 'Vous avez souvent plusieurs semaines de retard dans l’enregistrement de vos écritures comptables? Confiez-moi leur saisie et évitez ainsi le stress de fin d’exercice.'
-heroBackgroundsm: 'prestations/gestion-administrative-w550.jpg'
-heroBackgroundmd: 'prestations/gestion-administrative-w950.jpg'
-heroBackgroundlg: 'prestations/gestion-administrative-w1250.jpg'
-heroBackgroundxl: 'prestations/gestion-administrative-w1900.jpg'
+heroBackgroundsm: 'prestations/gestion-comptable-w550.jpg'
+heroBackgroundmd: 'prestations/gestion-comptable-w950.jpg'
+heroBackgroundlg: 'prestations/gestion-comptable-w1250.jpg'
+heroBackgroundxl: 'prestations/gestion-comptable-w1900.jpg'
 ---
 
 Vous avez souvent plusieurs semaines de retard dans l’enregistrement de vos écritures comptables? Confiez-moi leur saisie et évitez ainsi le stress de fin d’exercice.

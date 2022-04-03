@@ -8,10 +8,10 @@ featured: true
 weight: 2
 heroHeading: 'Gestion Juridique'
 summary: 'Vous ne souhaitez plus rédiger vous-même vos assignations, conclusions, requêtes, compte-rendu, contrats? Déléguez ces travaux.'
-heroBackgroundsm: 'prestations/gestion-administrative-w550.jpg'
-heroBackgroundmd: 'prestations/gestion-administrative-w950.jpg'
-heroBackgroundlg: 'prestations/gestion-administrative-w1250.jpg'
-heroBackgroundxl: 'prestations/gestion-administrative-w1900.jpg'
+heroBackgroundsm: 'prestations/gestion-juridique-w550.jpg'
+heroBackgroundmd: 'prestations/gestion-juridique-w950.jpg'
+heroBackgroundlg: 'prestations/gestion-juridique-w1250.jpg'
+heroBackgroundxl: 'prestations/gestion-juridique-w1900.jpg'
 ---
 
 Vous ne souhaitez plus rédiger vous-même vos assignations, conclusions, requêtes, compte-rendu, contrats? Déléguez ces travaux.

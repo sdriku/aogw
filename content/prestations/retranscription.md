@@ -7,10 +7,10 @@ featured: true
 weight: 4
 heroHeading: 'Retranscription'
 summary: 'Vous n’avez plus le temps ni l’envie de rédiger vos compte-rendus de réunion, vos conclusions, vos requêtes? Envoyez-moi un enregistrement et je m’occupe de la rédaction.'
-heroBackgroundsm: 'prestations/gestion-administrative-w550.jpg'
-heroBackgroundmd: 'prestations/gestion-administrative-w950.jpg'
-heroBackgroundlg: 'prestations/gestion-administrative-w1250.jpg'
-heroBackgroundxl: 'prestations/gestion-administrative-w1900.jpg'
+heroBackgroundsm: 'prestations/retranscription-w550.jpg'
+heroBackgroundmd: 'prestations/retranscription-w950.jpg'
+heroBackgroundlg: 'prestations/retranscription-w1250.jpg'
+heroBackgroundxl: 'prestations/retranscription-w1900.jpg'
 ---
 
 Vous n'avez plus le temps ni l'envie de rédiger vos compte-rendus de réunion, vos conclusions, vos requêtes? Envoyez-moi un enregistrement et je m´occupe de la rédaction.
