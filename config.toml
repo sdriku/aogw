@@ -6,10 +6,6 @@ theme = "hugo-hero-theme-master"
 enableRobotsTXT = true
 canonifyURLs = true
 
-[sitemap]
-changefreq = "weekly"
-filename = "sitemap.xml"
-priority = 0.5
 
 [module]
   [module.hugoVersion]
@@ -41,7 +37,7 @@ priority = 0.5
 
 [[menu.main]]
     name = "Avantages"
-    url = "/work/"
+    url = "/avantages/"
     weight = 2
 
 [[menu.main]]
@@ -61,8 +57,5 @@ priority = 0.5
     
 
 [permalinks]
-  prestations = "/prestations/:title"
-  about = "/quisuisje/:slug"
-  work = "avantages/:slug"
   post = "/:year/:month/:day/:title/"
   pages = "/:filename/"
