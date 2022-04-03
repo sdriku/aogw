@@ -3,8 +3,6 @@ languageCode = "fr"
 title = "A. Office Gestion Web assiste les dirigeants d'Entreprise, sur site ou à distance."
 themesDir = "themes"
 theme = "hugo-hero-theme-master"
-enableRobotsTXT = true
-canonifyURLs = true
 
 
 [module]
@@ -31,8 +29,8 @@ canonifyURLs = true
 
 
 [[menu.main]]
-	name = "Prestations"
-	url = "/prestations/"
+    name = "Prestations"
+    url = "/prestations/"
     weight = 1
 
 [[menu.main]]
