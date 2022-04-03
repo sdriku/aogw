@@ -2,12 +2,12 @@
 title: 'Gestion de Website'
 date: 2021-11-28T15:14:54+10:00
 description : "A. Office Gestion Web vous crée un site internet statique: rapide, sécurisé, sans maintenance nécessaire et sans coût d'hébergement. Je peux vous créer un site vitrine, un petit eCommerce, ainsi qu'un site simple d'une seule page présentant un nouveau produit ou un évènement à venir."
-icon: 'services/service-icon-5.png'
+icon: 'prestations/service-icon-5.png'
 featured: true
 weight: 5
 heroHeading: 'Gestion de Website'
 summary: 'Vous souhaitez créer un site rapide, adaptatif, accessible, bien référencé, le tout sans dépenser les 3.000€ que vous facturerais une agence web?'
-heroBackground: 'services/gestion-website.jpg'
+heroBackground: 'prestations/gestion-website.jpg'
 ---
 
 Vous souhaitez créer un site rapide, adaptatif, accessible, bien référencé, le tout sans dépenser les 3.000€ que vous facturerais une agence web?

@@ -1,7 +1,7 @@
 ---
-title: 'About'
+title: 'Qui suis-je'
 date: 2018-12-06T09:29:16+10:00
-description : ""
+description : "A propos d'A. Office Gestion Web."
 layout: 'about'
 heroHeading: 'Qui suis-je'
 heroSubHeading: "Je me prénomme Armelle, je suis Assistante de Direction avec plus de 30 années d’expérience."
@@ -12,11 +12,11 @@ heroBackgroundxl: 'images/aogw-hero-w1900.jpg'
 ---
 
 <div>
-{{< content-strip-left "/pages/about" "content1" >}}
+{{< content-strip-left "/pages/quisuisje" "content1" >}}
 </div>
 <div>
-{{< content-strip-right "/pages/about" "content2" >}}
+{{< content-strip-right "/pages/quisuisje" "content2" >}}
 </div>
 <div>
-{{< content-strip-center "/pages/about" "content3" >}}
+{{< content-strip-center "/pages/quisuisje" "content3" >}}
 </div>

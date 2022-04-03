@@ -2,12 +2,12 @@
 title: 'Gestion Comptable'
 date: 2021-11-28T15:15:34+10:00
 description : "A. Office Gestion Web peut aussi prendre en charge la saisie de vos écritures Comptable."
-icon: 'services/service-icon-4.png'
+icon: 'prestations/service-icon-4.png'
 featured: true
 weight: 3
 heroHeading: 'Gestion Comptable'
 summary: 'Vous avez souvent plusieurs semaines de retard dans l’enregistrement de vos écritures comptables? Confiez-moi leur saisie et évitez ainsi le stress de fin d’exercice.'
-heroBackground: 'services/gestion-comptable.jpg'
+heroBackground: 'prestations/gestion-comptable.jpg'
 ---
 
 Vous avez souvent plusieurs semaines de retard dans l’enregistrement de vos écritures comptables? Confiez-moi leur saisie et évitez ainsi le stress de fin d’exercice.
