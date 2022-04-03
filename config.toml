@@ -6,10 +6,6 @@ theme = "hugo-hero-theme-master"
 enableRobotsTXT = true
 canonifyURLs = true
 
-[sitemap]
-changefreq = "weekly"
-filename = "sitemap.xml"
-priority = 0.5
 
 [module]
   [module.hugoVersion]
