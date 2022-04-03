@@ -4,9 +4,9 @@ backend:
 media_folder: themes/hugo-hero-theme-master/assets/img
 public_folder: /img
 collections:
-  - name: 'services'
+  - name: 'prestations'
     label: 'Prestations'
-    folder: 'content/services'
+    folder: 'content/prestations'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
@@ -21,7 +21,7 @@ collections:
       
   - name: 'avantages'
     label: 'Avantages'
-    folder: 'content/work'
+    folder: 'content/avantages'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
