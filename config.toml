@@ -36,6 +36,7 @@ theme = "hugo-hero-theme-master"
 [[menu.main]]
     name = "Avantages"
     url = "/avantages/"
+    slug = "avantages"
     weight = 2
 
 [[menu.main]]
