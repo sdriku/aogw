@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://www.assist-secretariat.com/"
 languageCode = "fr"
 title = "AOGW"
 themesDir = "themes"
