@@ -12,6 +12,9 @@ canonifyURLs = true
     extended = true
     min = "0.92.0"
     
+[minify]
+disableXML = true
+    
 [params]
   google_analytics_id=""
 
