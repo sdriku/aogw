@@ -41,7 +41,7 @@ priority = 0.5
 
 [[menu.main]]
     name = "Avantages"
-    url = "/avantages/"
+    url = "/work/"
     weight = 2
 
 [[menu.main]]
@@ -61,6 +61,8 @@ priority = 0.5
     
 
 [permalinks]
-  prestations = "/prestations/:title/"
+  prestations = "/prestations/:title"
+  about = "/quisuisje/:slug"
+  work = "avantages/:slug"
   post = "/:year/:month/:day/:title/"
   pages = "/:filename/"
