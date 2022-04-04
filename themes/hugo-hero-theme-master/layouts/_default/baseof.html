@@ -21,6 +21,8 @@
 
   {{ block "header_css" . }}{{ end }}
 
+  <script defer type="text/javascript" src="{{ $scripts := resources.Get "js/scripts.js" }}"></script>
+
   <script defer src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
   <meta name="google-site-verification" content="dcGStG1KYmpmwTl_OJrZEQhL0QcFotHpFnX5afNTeo8" />
@@ -37,8 +39,6 @@
 
   {{ partial "footer.html" . }}
   {{ partial "sub-footer.html" . }}
-
-  {{ $scripts := resources.Get "js/scripts.js" }}
 
   {{ block "footer_js" . }}
   {{ end }}
