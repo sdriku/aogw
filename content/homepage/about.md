@@ -1,5 +1,6 @@
 ---
 title: 'Pourquoi me faire confiance ?'
+description: "Pourquoi me faire confiance ?"
 weight: 2
 background: ''
 button: 'Contactez-moi'
