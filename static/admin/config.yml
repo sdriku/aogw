@@ -67,7 +67,6 @@ collections:
   - name: 'mentionslegales'
     label: 'Mentions légales'
     folder: 'content/mentionslegales'
-    create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
       preview: true
