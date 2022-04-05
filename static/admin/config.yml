@@ -51,7 +51,7 @@ collections:
       
   - name: 'about'
     label: 'Qui suis-je'
-    folder: 'content/pages/about'
+    folder: 'content/pages/quisuisje'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
