@@ -2,7 +2,6 @@
 title: 'Avantage 1'
 date: 2018-11-18T12:33:46+10:00
 description : "Avantage nº1"
-draft: false
 weight: 1
 heroHeading: 'Avantage nº1'
 heroSubHeading: 'Avantage nº1'
