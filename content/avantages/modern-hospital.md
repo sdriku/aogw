@@ -2,6 +2,7 @@
 title: 'Avantage 2'
 date: 2018-11-18T12:33:46+10:00
 description : "Avantage nº2"
+featured: true
 weight: 2
 heroHeading: 'Avantage nº2'
 heroSubHeading: 'Avantage nº2'
