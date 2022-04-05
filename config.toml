@@ -42,7 +42,6 @@ priority = 0.5
 [[menu.main]]
     name = "Avantages"
     url = "/avantages/"
-    slug = "avantages"
     weight = 2
 
 [[menu.main]]
