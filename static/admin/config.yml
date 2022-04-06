@@ -29,7 +29,8 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
-      - { label: 'Summary', name: 'summary', widget: 'string' }     
+      - { label: 'heroHeading', name: 'heroHeading', widget: 'string' } 
+      - { label: 'heroBackground', name: 'heroBackground', widget: 'image' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
       
   - name: 'tarifs'
