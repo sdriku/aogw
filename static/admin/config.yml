@@ -30,7 +30,8 @@ collections:
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'heroHeading', name: 'heroHeading', widget: 'string' } 
-      - { label: 'heroBackground', name: 'heroBackground', widget: 'image' }
+      - { label: 'heroSubHeading', name: 'heroSubHeading', widget: 'string' } 
+      - { label: 'heroBackground', name: 'heroBackground', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
       
   - name: 'tarifs'
