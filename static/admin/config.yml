@@ -50,20 +50,6 @@ collections:
       - { label: 'Summary', name: 'summary', widget: 'string' }     
       - { label: 'Body', name: 'body', widget: 'markdown' }
       
-  - name: 'quisuisje'
-    label: 'Qui suis-je'
-    folder: 'content/pages/quisuisje'
-    create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-    editor:
-      preview: true
-    fields:
-      - { label: 'SEO Title', name: 'title', widget: 'string' }
-      - { label: 'SEO Description', name: 'description', widget: 'string' }
-      - { label: 'Title Page', name: 'heroHeading', widget: 'string' } 
-      - { label: 'Subtitle Page', name: 'heroSubHeading', widget: 'string' } 
-      - { label: 'Body', name: 'body', widget: 'markdown' }
-      
   - name: 'mentionslegales'
     label: 'Mentions légales'
     folder: 'content/mentionslegales'
@@ -76,3 +62,22 @@ collections:
       - { label: 'Title Page', name: 'heroHeading', widget: 'string' } 
       - { label: 'Subtitle Page', name: 'heroSubHeading', widget: 'string' } 
       - { label: 'Body', name: 'body', widget: 'markdown' }
+
+  - label: 'Qui suis je'
+    name: 'quisuisje'
+    files:
+      - label: 'Qui suisje'
+        name: 'index'
+        file: 'content/pages/quisuisje/index.md'
+        fields:
+        - { label: 'SEO Title', name: 'title', widget: 'string' }
+        - { label: 'SEO Description', name: 'description', widget: 'string' }
+        - { label: 'Title Page', name: 'heroHeading', widget: 'string' } 
+        - { label: 'Subtitle Page', name: 'heroSubHeading', widget: 'string' } 
+      - label: 'A mes débuts'
+        name: 'content1'
+        file: 'content/pages/quisuisje/content1.md'
+        fields:
+        - { label: 'SEO and Page Title', name: 'title', widget: 'string' }
+        - { label: 'SEO Description', name: 'description', widget: 'string' }
+        - { label: 'Body', name: 'body', widget: 'markdown' }
