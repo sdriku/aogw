@@ -35,7 +35,6 @@ Ces retranscriptions peuvent être effectuées selon 3 méthodes (au choix du cl
 
 - -le COMPTE-RENDU OU LA SYNTHESE – qui est un résumé du texte, le plus souvent retranscrit dans un style indirect (“je = il”)
 
-{{< img src="/img/alarme-site-4.jpg" alt="alt" >}}
 
 Votre secrétaire assistante de direction indépendante utilise le logiciel EXPRESS SCRIBE.
 
