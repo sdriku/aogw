@@ -1,8 +1,8 @@
 backend:
   name: git-gateway
   branch: main # Branch to update (optional; defaults to master)
-media_folder: themes/hugo-hero-theme-master/assets/img
-public_folder: /img
+media_folder: "static/images"
+public_folder: "/images"
 collections:
   - name: 'prestations'
     label: 'Prestations'
@@ -12,9 +12,11 @@ collections:
     editor:
       preview: true
     fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'SEO Title', name: 'title', widget: 'string' }
+      - { label: 'SEO Description', name: 'description', widget: 'string' }
+      - { label: 'Icon', name: 'icon', widget: 'image' }
+      - { label: 'Order', name: 'weight', widget: 'number' }
+      - { label: 'Title Page', name: 'heroHeading', widget: 'string' } 
       - { label: 'Summary', name: 'summary', widget: 'string' }     
       - { label: 'Body', name: 'body', widget: 'markdown' }
       
@@ -26,12 +28,12 @@ collections:
     editor:
       preview: true
     fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Description', name: 'description', widget: 'string' }
-      - { label: 'heroHeading', name: 'heroHeading', widget: 'string' } 
-      - { label: 'heroSubHeading', name: 'heroSubHeading', widget: 'string' } 
-      - { label: 'thumbnail', name: 'thumbnail', widget: 'image' }
+      - { label: 'SEO Title', name: 'title', widget: 'string' }
+      - { label: 'SEO Description', name: 'description', widget: 'string' }
+      - { label: 'Title Page', name: 'heroHeading', widget: 'string' } 
+      - { label: 'Subtitle Page', name: 'heroSubHeading', widget: 'string' } 
+      - { label: 'Banner Image', name: 'heroBackground', widget: 'image' }
+      - { label: 'Thumbnail', name: 'thumbnail', widget: 'image' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
       
   - name: 'tarifs'
@@ -48,7 +50,7 @@ collections:
       - { label: 'Summary', name: 'summary', widget: 'string' }     
       - { label: 'Body', name: 'body', widget: 'markdown' }
       
-  - name: 'about'
+  - name: 'quisuisje'
     label: 'Qui suis-je'
     folder: 'content/pages/quisuisje'
     create: true
@@ -56,10 +58,10 @@ collections:
     editor:
       preview: true
     fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Description', name: 'description', widget: 'string' }
-      - { label: 'Summary', name: 'summary', widget: 'string' }     
+      - { label: 'SEO Title', name: 'title', widget: 'string' }
+      - { label: 'SEO Description', name: 'description', widget: 'string' }
+      - { label: 'Title Page', name: 'heroHeading', widget: 'string' } 
+      - { label: 'Subtitle Page', name: 'heroSubHeading', widget: 'string' } 
       - { label: 'Body', name: 'body', widget: 'markdown' }
       
   - name: 'mentionslegales'
@@ -69,21 +71,8 @@ collections:
     editor:
       preview: true
     fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Description', name: 'description', widget: 'string' }
-      - { label: 'Summary', name: 'summary', widget: 'string' }     
+      - { label: 'SEO Title', name: 'title', widget: 'string' }
+      - { label: 'SEO Description', name: 'description', widget: 'string' }
+      - { label: 'Title Page', name: 'heroHeading', widget: 'string' } 
+      - { label: 'Subtitle Page', name: 'heroSubHeading', widget: 'string' } 
       - { label: 'Body', name: 'body', widget: 'markdown' }
-
-  - label: "Main page"
-    name: "main page"
-    files:
-      - label: "Accueil"
-      - name: "accueil"
-      - file: "site/content/_index.md"
-        fields:
-          - { label: 'Title', name: 'title', widget: 'string' }
-          - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-          - { label: 'Description', name: 'description', widget: 'string' }
-          - { label: 'heroHeading', name: 'heroHeading', widget: 'string' }
-          - { label: 'heroSubHeading', name: 'heroSubHeading', widget: 'string' }
