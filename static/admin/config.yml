@@ -75,8 +75,8 @@ collections:
       - { label: 'Summary', name: 'summary', widget: 'string' }     
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
-  - label: "Accueil"
-    name: "accueil"
+  - label: "Main page"
+    name: "main page"
     files:
       - label: "Accueil"
       - name: "accueil"
