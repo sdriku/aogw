@@ -12,6 +12,7 @@ public_folder: /img
 collections:
   - name: 'sectionprestations'
     label: 'Section Prestations'
+    description: 'Vous pouvez modifier la page principale nommée Prestations'
     folder: 'content/prestations'
     create: true
     editor:
@@ -24,6 +25,7 @@ collections:
       - { label: 'Contenu', name: 'body', widget: 'markdown', hint: 'Contenu de la page + parlez de votre prestation + ajoutez une ou deux photos + soyez concis mais percutant + pensez à introduire vos mots clés' }
   - name: 'mesprestations'
     label: 'Mes Prestations'
+    description: 'Vous pouez modifier la page dédiée à chacune de vos prestations'
     folder: 'content/prestations'
     create: true
     editor:
