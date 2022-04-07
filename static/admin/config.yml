@@ -5,27 +5,39 @@ backend:
 site_url: https://www.assist-secretariat.com
 display_url: https://www.assist-secretariat.com
 logo_url: https://www.assist-secretariat.com/images/aogw-logo-400w.png
-locale: 'pt'
+locale: 'fr'
 
 media_folder: themes/hugo-hero-theme-master/assets/img
 public_folder: /img
 collections:
   - name: 'prestations'
+    label: 'Section Prestations'
+    folder: 'content/prestations'
+    create: true
+    editor:
+      preview: true
+    filter: {fields: "mainsection", language: "true"}
+    fields:
+      - { label: 'Titre SEO', name: 'title', widget: 'string' }
+      - { label: 'Description SEO', name: 'description', widget: 'string' }
+      - { label: 'Titre de la Page', name: 'heroHeading', widget: 'string' }
+      - { label: 'Contenu', name: 'body', widget: 'markdown' }
+  - name: 'prestations'
     label: 'Prestations'
     folder: 'content/prestations'
     create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
       preview: true
+    filter: {fields: "mainsection", language: "false"}
     fields:
-      - { label: 'SEO Title', name: 'title', widget: 'string' }
-      - { label: 'SEO Description', name: 'description', widget: 'string' }
-      - { label: 'Icon', name: 'icon', widget: 'image' }
-      - { label: 'Order', name: 'weight', widget: 'number' }
-      - { label: 'Title Page', name: 'heroHeading', widget: 'string' } 
-      - { label: 'Summary', name: 'summary', widget: 'string' }     
-      - { label: 'Body', name: 'body', widget: 'markdown' }
-      
+      - { label: 'Intitulé sous-section et Titre SEO', name: 'title', widget: 'string' }
+      - { label: 'Description SEO', name: 'description', widget: 'string' }
+      - { label: 'Icone', name: 'icon', widget: 'image' }
+      - { label: 'Ordre', name: 'weight', widget: 'number' }
+      - { label: 'Titre de la Page', name: 'heroHeading', widget: 'string' }
+      - { label: 'Résumé', name: 'summary', widget: 'string' }
+      - { label: 'Contenu', name: 'body', widget: 'markdown' }
+
   - name: 'avantages'
     label: 'Avantages'
     folder: 'content/avantages'
