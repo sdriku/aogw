@@ -123,6 +123,20 @@ collections:
       - { label: 'Ordre', name: 'weight', widget: 'number', hint: 'ordre dans lequel vos sections apparaissent sur la page Qui suis-je' }
       - { label: 'Contenu', name: 'body', widget: 'markdown', hint: 'Contenu de la sous-section + ajoutez une ou deux photos si nécessaire + soyez concis mais percutant + pensez à introduire vos mots clés' }
 
+  - name: 'contact'
+    label: 'Contact'
+    description: 'Modifiez ici votre page Contact'
+    folder: 'content/contact'
+    create: false
+    editor:
+      preview: true
+    fields:
+      - { label: 'Titre SEO', name: 'title', widget: 'string', hint: 'Ceci est le Titre SEO qui apparait depuis Google lors dune recherche mais napparait nulle part sur votre site' }
+      - { label: 'Description SEO', name: 'description', widget: 'string', hint: 'Ceci est la Description SEO qui apparait depuis Google lors dune recherche + pensez à y introduire vos mots-clés + napparaitra nulle part sur votre site' }
+      - { label: 'Titre de la Page', name: 'heroHeading', widget: 'string', hint: 'Titre qui apparait en haut de la page dédiée' }
+      - { label: 'Sous-titre de la Page', name: 'heroSubHeading', widget: 'string', required: false, hint: 'Sous-titre qui apparait juste au dessous du Titre' }
+      - { label: 'Contenu', name: 'body', widget: 'markdown', hint: 'Contenu de la page + listez ici vos Mentions Légales' }
+
   - name: 'mentionslegales'
     label: 'Mentions légales'
     description: 'Modifiez ici vos Mentions Légales'
