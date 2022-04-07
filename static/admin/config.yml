@@ -18,8 +18,8 @@ collections:
       preview: true
     filter: {field: "mainsection", value: "true"}
     fields:
-      - { label: 'Titre SEO', name: 'title', widget: 'string', hint: 'Ceci est votre Titre SEO qui apparaitra depuis Google lors d'une recherche, napparaitra nulle part sur votre site.' }
-      - { label: 'Description SEO', name: 'description', widget: 'string', hint: 'Ceci est votre Description SEO qui apparaitra depuis Google lors d'une recherche. Pensez à y introduire vos mots-clés. Napparaitra nulle part sur votre site.' }
+      - { label: 'Titre SEO', name: 'title', widget: 'string', hint: 'Ceci est votre Titre SEO qui apparaitra depuis Google lors dune recherche, napparaitra nulle part sur votre site.' }
+      - { label: 'Description SEO', name: 'description', widget: 'string', hint: 'Ceci est votre Description SEO qui apparaitra depuis Google lors dune recherche. Pensez à y introduire vos mots-clés. Napparaitra nulle part sur votre site.' }
       - { label: 'Titre de la Page', name: 'heroHeading', widget: 'string', hint: 'Titre qui apparaitra en haut de la page dédiée.' }
       - { label: 'Contenu', name: 'body', widget: 'markdown', hint: 'Contenu de la page, parlez de votre prestation, ajoutez une ou deux photos, soyez concis mais percutant, pensez à introduire vos mots clés.' }
   - name: 'mesprestations'
