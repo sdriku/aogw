@@ -1,6 +1,7 @@
 ---
 title: 'A mes débuts'
 date: 2018-12-06T09:29:16+10:00
+mainsection: "false"
 description : "Les débuts de mon activité."
 weight: 1
 background: ''

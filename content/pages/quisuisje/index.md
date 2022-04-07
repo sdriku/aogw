@@ -1,6 +1,7 @@
 ---
 title: 'Qui suis-je'
 date: 2018-12-06T09:29:16+10:00
+mainsection: "true"
 description : "A propos d'A. Office Gestion Web."
 layout: 'quisuisje'
 heroHeading: 'Qui suis-je'

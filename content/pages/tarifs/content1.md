@@ -1,6 +1,7 @@
 ---
-title: 'Mes tarifs'
+title: 'Mes tarifs sur site'
 date: 2018-12-06T09:29:16+10:00
+mainsection: "false"
 description : "Mes tarifs sur site."
 weight: 1
 background: ''

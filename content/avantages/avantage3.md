@@ -6,6 +6,7 @@ description : "Avantage nº3"
 weight: 3
 heroHeading: 'Avantage nº3'
 heroSubHeading: 'Avantage n3'
+summary: ''
 heroBackground: 'https://source.unsplash.com/tjX_sniNzgQ/1600x400'
 thumbnail: 'https://source.unsplash.com/tjX_sniNzgQ/400x300'
 images: ''
