@@ -1,6 +1,7 @@
 ---
 title: 'Retranscription'
 date: 2021-11-28T15:15:26+10:00
+mainsection: "false"
 description : "A. Office Gestion Web retranscrit différents types de documents: rédaction de compte-rendu de réunion pour les Comités d’entreprise, les CHSCT, les AGs - rédaction de procès-verbaux - rédaction de thèses, séminaires, mémoires - dictée numérique - conclusions, requêtes, assignations."
 icon: 'prestations/service-icon-3.png'
 featured: true

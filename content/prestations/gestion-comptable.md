@@ -1,6 +1,7 @@
 ---
 title: 'Gestion Comptable'
 date: 2021-11-28T15:15:34+10:00
+mainsection: "false"
 description : "A. Office Gestion Web peut aussi prendre en charge la saisie de vos écritures Comptable."
 icon: 'prestations/service-icon-4.png'
 featured: true
