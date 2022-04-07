@@ -14,6 +14,7 @@ collections:
     label: 'Section Prestations'
     description: 'Modifiez ici la page principale nommée Prestations'
     folder: 'content/prestations'
+    create: false
     editor:
       preview: true
     filter: {field: "mainsection", value: "true"}
@@ -42,6 +43,7 @@ collections:
     label: 'Section Avantages'
     description: 'Modifiez ici la page principale nommée Avantages'
     folder: 'content/avantages'
+    create: false
     editor:
       preview: true
     filter: {field: "mainsection", value: "true"}
@@ -71,6 +73,7 @@ collections:
     label: 'Section Tarifs'
     description: 'Modifiez ici la page principale nommée Tarifs'
     folder: 'content/pages/tarifs'
+    create: false
     editor:
       preview: true
     filter: {field: "mainsection", value: "true"}
@@ -97,6 +100,7 @@ collections:
     label: 'Section Qui suis-je'
     description: 'Modifiez ici la page principale nommée Qui suis-je'
     folder: 'content/pages/quisuisje'
+    create: false
     editor:
       preview: true
     filter: {field: "mainsection", value: "true"}
@@ -123,6 +127,7 @@ collections:
     label: 'Mentions légales'
     description: 'Modifiez ici vos Mentions Légales'
     folder: 'content/mentionslegales'
+    create: false
     editor:
       preview: true
     fields:
