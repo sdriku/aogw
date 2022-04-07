@@ -10,7 +10,7 @@ locale: 'fr'
 media_folder: themes/hugo-hero-theme-master/assets/img
 public_folder: /img
 collections:
-  - name: 'prestations'
+  - name: 'section prestations'
     label: 'Section Prestations'
     folder: 'content/prestations'
     create: true
