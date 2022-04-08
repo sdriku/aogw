@@ -135,7 +135,6 @@ collections:
       - { label: 'Description SEO', name: 'description', widget: 'string', hint: 'Ceci est la Description SEO qui apparait depuis Google lors dune recherche + pensez à y introduire vos mots-clés + napparaitra nulle part sur votre site' }
       - { label: 'Titre de la Page', name: 'heroHeading', widget: 'string', hint: 'Titre qui apparait en haut de la page dédiée' }
       - { label: 'Sous-titre de la Page', name: 'heroSubHeading', widget: 'string', required: false, hint: 'Sous-titre qui apparait juste au dessous du Titre' }
-      - { label: 'Contenu', name: 'body', widget: 'markdown', hint: 'Contenu de la page + listez ici vos Mentions Légales' }
 
   - name: 'mentionslegales'
     label: 'Mentions légales'

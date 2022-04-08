@@ -39,10 +39,10 @@ priority = 0.5
     url = "/prestations/"
     weight = 1
 
-[[menu.main]]
-    name = "Avantages"
-    url = "/avantages/"
-    weight = 2
+##[[menu.main]]
+##    name = "Avantages"
+##    url = "/avantages/"
+##    weight = 2
 
 [[menu.main]]
     name = "Qui suis-je"
