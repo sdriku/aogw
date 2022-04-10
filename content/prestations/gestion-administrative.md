@@ -18,6 +18,8 @@ heroBackgroundmd: prestations/gestion-administrative-w950.jpg
 ---
 ### Les entreprises n’ont pas de temps à perdre, elles doivent être productives.
 
+![](/img/hero-w1900.jpg)
+
 La gestion administrative prend du temps, beaucoup de temps. A. OFFICE GESTION WEB peut vous aider dans différentes tâches à accomplir, que ce soit en présentiel ou en distanciel, telles que :
 
 * \-prise de RDV,
