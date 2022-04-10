@@ -30,11 +30,6 @@ La gestion administrative prend du temps, beaucoup de temps. A. OFFICE GESTION W
 * \-création de formulaires,
 * \-transcription ou retranscription de courriers, courriels, contrats, compte-rendus opératoires, rapports, audits, compte- rendus de réunions, procès verbaux…
 * \-gestion de devis et factures,
-* \-Relances paiement,
-* \-PPSPS, DGD, situation,
-* \-gestion entrée et sortie du personnel, DPAE,
-* \-contact avec les organismes et autres,
-* \-gestion des déplacements,
-* \-gestion des manifestations culturelles et conviviales
+* \-Relances paiement...
 
 ##### VOUS AVEZ D’AUTRES ATTENTES, N’ATTENDEZ-PAS, CONTACTEZ-MOI !
