@@ -20,21 +20,21 @@ heroBackgroundmd: prestations/gestion-administrative-w950.jpg
 
 La gestion administrative prend du temps, beaucoup de temps. A. OFFICE GESTION WEB peut vous aider dans différentes tâches à accomplir, que ce soit en présentiel ou en distanciel, telles que :
 
-* prise de RDV,
-* accueil téléphonique ou physique,
-* tenue d’agenda (Google agenda),
-* gestion des mails entrants et sortants,
-* rédaction de courriers et courriels,
-* mise en page, relecture,
-* prise de notes rapide en sténographie avec la méthode PREVOST DELAUNAY,
-* création de formulaires,
-* transcription ou retranscription de courriers, courriels, contrats, compte-rendus opératoires, rapports, audits, compte- rendus de réunions, procès verbaux…
-* gestion de devis et factures,
-* Relances paiement,
-* PPSPS, DGD, situation,
-* gestion entrée et sortie du personnel, DPAE,
-* contact avec les organismes et autres,
-* gestion des déplacements,
-* gestion des manifestations culturelles et conviviales
+* \-prise de RDV,
+* \-accueil téléphonique ou physique,
+* \-tenue d’agenda (Google agenda),
+* \-gestion des mails entrants et sortants,
+* \-rédaction de courriers et courriels,
+* \-mise en page, relecture,
+* \-prise de notes rapide en sténographie avec la méthode PREVOST DELAUNAY,
+* \-création de formulaires,
+* \-transcription ou retranscription de courriers, courriels, contrats, compte-rendus opératoires, rapports, audits, compte- rendus de réunions, procès verbaux…
+* \-gestion de devis et factures,
+* \-Relances paiement,
+* \-PPSPS, DGD, situation,
+* \-gestion entrée et sortie du personnel, DPAE,
+* \-contact avec les organismes et autres,
+* \-gestion des déplacements,
+* \-gestion des manifestations culturelles et conviviales
 
 ##### VOUS AVEZ D’AUTRES ATTENTES, N’ATTENDEZ-PAS, CONTACTEZ-MOI !
