@@ -35,6 +35,11 @@ priority = 0.5
 
 
 [[menu.main]]
+    name = "Accueil"
+    url = "/index.html/"
+    weight = 1
+
+[[menu.main]]
     name = "Prestations"
     url = "/prestations/"
     weight = 1
