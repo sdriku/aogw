@@ -9,7 +9,7 @@
     <div class="col-12 col-md-8 mt-5 ml-6">
       {{ .Content }}
       <ul>
-        <li class="mb-2"><img height="80" width="80" src="{{ .Site.Data.contact.icon_phone | relURL }}" alt="{{ .Params.altPhone }}" class="mr-2"/>{{ .Site.Data.contact.phone }}</li>
+        <li class="mb-2"><img height="80" width="80" src="{{ .Params.iconPhone | relURL }}" alt="{{ .Params.altPhone }}" class="mr-2"/>{{ .Site.Data.contact.phone }}</li>
         <li><img height="80" width="80" src="{{ .Params.iconEmail | relURL }}" alt="{{ .Params.altEmail }}" class="mr-2"/><a href="mailto:{{ .Site.Data.contact.email }}">
             {{ .Site.Data.contact.email }}</a></li>
       </ul>
