@@ -7,8 +7,8 @@ display_url: https://www.assist-secretariat.com
 logo_url: https://www.assist-secretariat.com/images/aogw-logo-400w.png
 locale: 'fr'
 
-media_folder: static/images
-public_folder: /images
+media_folder: themes/hugo-hero-theme-master/assets/img
+public_folder: /img
 collections:
   - name: 'sectionprestations'
     label: 'Section Prestations'
@@ -149,3 +149,17 @@ collections:
       - { label: 'Titre de la Page', name: 'heroHeading', widget: 'string', hint: 'Titre qui apparait en haut de la page dédiée' }
       - { label: 'Sous-titre de la Page', name: 'heroSubHeading', widget: 'string', required: false, hint: 'Sous-titre qui apparait juste au dessous du Titre' }
       - { label: 'Contenu', name: 'body', widget: 'markdown', hint: 'Contenu de la page + listez ici vos Mentions Légales' }
+
+  - name: "fichierdonnées"
+    label: "Fichier Données"
+    files:
+      - name: 'fichiercontact'
+        label: 'Fichier Contact'
+        description: 'Modifiez ici les contacts de votre entreprise'
+        file: 'data/contact.yaml'
+        editor:
+          preview: true
+        fields:
+          - { label: 'Adresse email', name: 'email', widget: 'string', hint: 'Modifiez si nécessaire adresse email de la page Contact' }
+          - { label: 'Numéro de téléphone', name: 'phone', widget: 'string', hint: 'Modifiez si nécessaire numéro de téléphone de la page Contact' }
+          - { label: 'Icone Téléphone', name: 'icon_phone', widget: 'image', hint: 'Modifiez l'icône téléphone de la page Contact' }
