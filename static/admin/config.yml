@@ -162,4 +162,4 @@ collections:
         fields:
           - { label: 'Adresse email', name: 'email', widget: 'string', hint: 'Modifiez si nécessaire adresse email de la page Contact' }
           - { label: 'Numéro de téléphone', name: 'phone', widget: 'string', hint: 'Modifiez si nécessaire numéro de téléphone de la page Contact' }
-          - { label: 'Icone Téléphone', name: 'icon_phone', widget: 'image', hint: 'Modifiez l'icône téléphone de la page Contact' }
+          - { label: 'Icone Téléphone', name: 'icon_phone', widget: 'image', hint: 'Modifiez icône téléphone de la page Contact' }
