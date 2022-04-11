@@ -5990,7 +5990,6 @@ ul.social {
 .hero-image {
   background-size: cover;
   background-repeat: no-repeat;
-  background-blend-mode: overlay;
   background-color: #534949;
   height: 400px;
   position: relative;
