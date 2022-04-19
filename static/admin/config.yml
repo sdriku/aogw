@@ -7,7 +7,7 @@ display_url: https://www.assist-secretariat.com
 logo_url: https://www.assist-secretariat.com/images/aogw-logo-400w.png
 locale: 'fr'
 
-media_folder: themes/hugo-hero-theme-master/assets/img
+media_folder: assets/img
 public_folder: /img
 collections:
   - name: 'sectionprestations'

@@ -21,7 +21,13 @@
 
   {{ block "header_css" . }}{{ end }}
 
-  <script defer type="text/javascript" src="{{ $scripts := resources.Get "js/scripts.js" }}"></script>
+  {{ $scripts := resources.Get "js/scripts.js" }}
+
+  {{ if .Site.IsServer }}
+  <script defer type="text/javascript" src="{{ $scripts.RelPermalink }}"></script>
+  {{ else }}
+  <script defer type="text/javascript" src="{{ ($scripts | minify | fingerprint).RelPermalink }}"></script>
+  {{ end }}
 
   <script defer src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 

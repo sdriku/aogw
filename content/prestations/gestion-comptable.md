@@ -18,7 +18,7 @@ heroBackgroundmd: prestations/gestion-comptable-w950.jpg
 ---
 Vous avez souvent plusieurs semaines de retard dans l’enregistrement de vos écritures comptables                                           ? Confiez-moi leur saisie et évitez ainsi le stress de fin d’exercice.
 
-### Toute entreprise, aussi petite soit-elle, se doit de tenir un Journal d’Achats, un Journal de Ventes et un Journal de Banque pour tenir sa comptabilité.
+## Toute entreprise, aussi petite soit-elle, se doit de tenir un Journal d’Achats, un Journal de Ventes et un Journal de Banque pour tenir sa comptabilité.
 
 Aujourd’hui, la comptabilité est effectuée en ligne à l'aide de logiciels comptables. Cette comptabilité, tenue par un Cabinet comptable ou par un Expert-comptable permet aux entrepreneurs de voir si leur entreprise est viable en sortant à chaque fin d’exercice un bilan de l’entreprise.
 
@@ -26,21 +26,25 @@ Il faut savoir que la comptabilité prend du temps, beaucoup de temps. Il ne fau
 
 Afin de tenir une comptabilité au plus près de la réalité, nous avons besoin de vos factures d’achats (sans oublier vos facturettes !), de vos factures clients et de vos relevés bancaires.
 
-Armelle de A. OFFICE GESTION WEB est assistante de gestion et pratique la saisie comptable depuis de nombreuses années. Elle peut faire la saisie de vos écritures comptables mais :
+Je pratique la saisie comptable depuis de nombreuses années. Je peux ainsi saisir vos écritures comptables mais à une condition:
 
-ATTENTION : La saisie de vos écritures comptables ne peut être faite qu’avec l’accord de votre Cabinet comptable ou de votre Expert-comptable, cela est très important. Sans cet accord, Armelle n’interviendra pas dans la saisie de votre comptabilité.
+ATTENTION : La saisie de vos écritures comptables ne peut être faite qu’avec l’accord de votre Cabinet comptable ou de votre Expert-comptable, cela est très important. Sans cet accord, je ne pourrai malheureusement pas intervenir dans la saisie de votre comptabilité.
 
-Actuellement, Armelle travaille avec un de ses clients qui est Expert-Comptable, celui-ci lui confie la saisie d’écritures comptables.
+L'un de mes clients actuel est Expert-Comptable, celui-ci me confie la saisie de ses écritures.
 
 Vous pouvez me faire confiance !
 
+<br>
+
 QUELS SONT LES LOGICIELS DE COMPTABILITÉ UTILISES ?
 
-* \-La gamme SAGE,
-* \-EBP,
-* \-ZEPHYR,
+* La gamme SAGE,
+* EBP,
+* ZEPHYR,
 * QUADRATUS de CEGID
 
 Votre Cabinet comptable ou votre Expert-comptable saisit vos écritures comptables sur un logiciel méconnu de A. OFFICE GESTION WEB ? cela importe peu, Armelle sait s’adapter, mais prévoyez un léger temps d’adaptation.
 
-## N’oubliez pas : la saisie de vos écritures comptables peut se faire en télétravail, solution plus économique pour mes clients.
+<br>
+
+### N’oubliez pas : la saisie de vos écritures comptables peut se faire en télétravail, solution plus économique pour mes clients.

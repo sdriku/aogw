@@ -7,6 +7,6 @@ button: 'Contactez-moi'
 buttonLink: 'contact'
 ---
 
-- Redonnez Priorité à votre coeur d’activité
-- Offrez-vous une Flexibilité totale
-- Mettez fin aux Retards administratifs
+1. Redonnez Priorité à votre coeur d’activité
+2. Offrez-vous une Flexibilité totale
+3. Mettez fin aux Retards administratifs

@@ -22,22 +22,25 @@ Armelle, secrétaire assistante de direction de A. OFFICE GESTION WEB, propose �
 
 A. OFFICE GESTION WEB réalise plusieurs types de retranscription, tels que :
 
-la rédaction de compte-rendu de réunion pour les Comités d’entreprise, les CHSCT, les AG…
-la rédaction de procès-verbaux,
-la rédaction de thèses, séminaires, mémoires…
-la dictée numérique,
-les conclusions, requêtes, assignations…
+- la rédaction de compte-rendu de réunion pour les Comités d’entreprise, les CHSCT, les AG…
+- la rédaction de procès-verbaux,
+- la rédaction de thèses, séminaires, mémoires…
+- la dictée numérique,
+- les conclusions, requêtes, assignations…
 
-Ces retranscriptions peuvent être effectuées selon 3 méthodes (au choix du client) :
+<br>
 
-- -le MOT A MOT ou VERBATIM ou SOCIOLOGIQUE – l’on retranscrit exactement ce qui est formulé, y compris les hésitations, les répétitions, les erreurs de langage,
+Ces retranscriptions peuvent être effectuées selon 3 méthodes :
 
-- -la transcription REVISEE OU REFORMULEE – l’on retranscrit dans un français correct tout en gardant l’intégralité du texte mais en supprimant les hésitations, les répétitions, les fautes de syntaxe, les tics de langage comme “grave”, “carrément”, “non mais oui”…)
+- le MOT A MOT ou VERBATIM ou SOCIOLOGIQUE – l’on retranscrit exactement ce qui est formulé, y compris les hésitations, les répétitions, les erreurs de langage,
 
-- -le COMPTE-RENDU OU LA SYNTHESE – qui est un résumé du texte, le plus souvent retranscrit dans un style indirect (“je = il”)
+- la transcription REVISEE OU REFORMULEE – l’on retranscrit dans un français correct tout en gardant l’intégralité du texte mais en supprimant les hésitations, les répétitions, les fautes de syntaxe, les tics de langage comme “grave”, “carrément”, “non mais oui”…)
 
+- le COMPTE-RENDU OU LA SYNTHESE – qui est un résumé du texte, le plus souvent retranscrit dans un style indirect (“je = il”)
+
+<br>
 
 Votre secrétaire assistante de direction indépendante utilise le logiciel EXPRESS SCRIBE.
 
-Armelle de A. OFFICE GESTION WEB possède une très bonne vitesse de frappe, une bonne orthographe et un français correct.
+### Armelle de A. OFFICE GESTION WEB possède une très bonne vitesse de frappe, une bonne orthographe et un français correct.
 

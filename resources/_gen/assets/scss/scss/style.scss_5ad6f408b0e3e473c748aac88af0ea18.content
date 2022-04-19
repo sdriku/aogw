@@ -5796,11 +5796,25 @@ ul.social {
   .title-3 a {
     display: block; }
 
-.content ul,
+.content ul {
+  list-style-type: square;
+  margin-top: 10px;
+  margin-bottom: 20px; }
+  .content ul li {
+    margin-bottom: 5px;
+    margin-left: 20px; }
+
+.content ul ul {
+  list-style-type: disc;
+  margin: 5px; }
+
+.content ul ul ul {
+  list-style-type: circle;
+  margin: 3px; }
+
 .content ol {
   margin-top: 10px;
   margin-bottom: 20px; }
-  .content ul li,
   .content ol li {
     margin-bottom: 5px;
     margin-left: 20px; }
@@ -5990,6 +6004,7 @@ ul.social {
 .hero-image {
   background-size: cover;
   background-repeat: no-repeat;
+  background-blend-mode: overlay;
   background-color: #534949;
   height: 400px;
   position: relative;
