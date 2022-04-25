@@ -6019,7 +6019,7 @@ ul.social {
     height: inherit; }
   .hero-image .hero-text {
     flex: 0;
-    color: #ffffff;
+    color: #000;
     margin-top: -5%; }
     .hero-image .hero-text h1 {
       font-size: 3rem; }
