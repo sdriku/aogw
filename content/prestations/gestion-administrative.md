@@ -19,16 +19,19 @@ heroBackgroundmd: prestations/gestion-administrative-w950.jpg
 ### Les entreprises n’ont pas de temps à perdre, elles doivent être productives.
 
 La gestion administrative prend du temps, beaucoup de temps. A. OFFICE GESTION WEB peut vous aider dans différentes tâches à accomplir, que ce soit en présentiel ou en distanciel, telles que :
-- prise de RDV,
-- accueil téléphonique ou physique,
-- tenue d’agenda (Google agenda),
-- gestion des mails entrants et sortants,
-- rédaction de courriers et courriels,
-- mise en page, relecture,
-- prise de notes rapide en sténographie avec la méthode PREVOST DELAUNAY,
-- création de formulaires,
-- transcription ou retranscription de courriers, courriels, contrats, compte-rendus opératoires, rapports, audits, compte- rendus de réunions, procès verbaux…
-- gestion de devis et factures,
-- Relances paiement...
+
+* prise de RDV,
+* accueil téléphonique ou physique,
+* tenue d’agenda (Google agenda),
+* gestion des mails entrants et sortants,
+* rédaction de courriers et courriels,
+* mise en page, relecture,
+* prise de notes rapide en sténographie avec la méthode PREVOST DELAUNAY,
+* création de formulaires,
+* transcription ou retranscription de courriers, courriels, contrats, compte-rendus opératoires, rapports, audits, compte- rendus de réunions, procès verbaux…
+* gestion de devis et factures,
+* Relances paiement...
 
 ##### VOUS AVEZ D’AUTRES ATTENTES, N’ATTENDEZ-PAS, CONTACTEZ-MOI !
+
+{{< img src="/img/wallet-3200387_640-gestion-administrative.jpg" alt="jolie photo de bureau" >}}
