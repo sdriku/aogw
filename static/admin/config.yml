@@ -9,7 +9,43 @@ locale: 'fr'
 
 media_folder: static/assets/img
 public_folder: assets/img
+
 collections:
+  - name: "fichierdonnées"
+    label: "Page d´Accueil et Fichier Contact"
+    files:
+      - name: 'fichiercontact'
+        label: 'Fichier Contact'
+        description: 'Modifiez ici les contacts de votre entreprise'
+        file: 'data/contact.yaml'
+        editor:
+          preview: true
+        fields:
+          - { label: 'Adresse email', name: 'email', widget: 'string', hint: 'Modifiez si nécessaire adresse email de la page Contact' }
+          - { label: 'Numéro de téléphone', name: 'phone', widget: 'string', hint: 'Modifiez si nécessaire numéro de téléphone de la page Contact' }
+      - name: 'fichierhomepage'
+        label: 'Page d´Accueil'
+        description: 'Modifiez ici votre page d´Accueil'
+        file: 'data/homepage.yml'
+        editor:
+          preview: true
+        fields:
+          - label: 'Logo'
+            name: 'logo'
+            widget: 'object'
+            collapsed: true
+            fields:
+              - { label: 'Petit Logo', name: 'mobile', widget: 'image', hint: 'Dimensionner votre logo de la manière suivante + largeur 242px + hauteur 142px'}
+              - { label: 'Grand Logo', name: 'desktop', widget: 'image', hint: 'Dimensionner votre logo de la manière suivante + largeur 400px + hauteur 283px'}
+          - label: 'Photo Page d´Accueil'
+            name: 'hero'
+            widget: 'object'
+            collapsed: true
+            fields:
+              - { label: 'Titre', name: 'heroHeading', widget: 'string', required: false, hint: 'Ceci est le Titre qui apparaitra en gras sur votre image principal'}
+              - { label: 'Sous-titre', name: 'heroSubHeading', widget: 'string', required: false, hint: 'Ceci est le texte qui apparaitra juste en dessous de votre Titre'}
+              - { label: 'Image Principale page d´Acceuil', name: 'heroBackground', widget: 'image', hint: 'Choisissez la photo principale que les clients verront en arrivant sur votre page d´Accueil'}
+
   - name: 'sectionprestations'
     label: 'Section Prestations'
     description: 'Modifiez ici la page principale nommée Prestations'
@@ -153,38 +189,3 @@ collections:
       - { label: 'Titre de la Page', name: 'heroHeading', widget: 'string', hint: 'Titre qui apparait en haut de la page dédiée' }
       - { label: 'Sous-titre de la Page', name: 'heroSubHeading', widget: 'string', required: false, hint: 'Sous-titre qui apparait juste au dessous du Titre' }
       - { label: 'Contenu', name: 'body', widget: 'markdown', hint: 'Contenu de la page + listez ici vos Mentions Légales' }
-
-  - name: "fichierdonnées"
-    label: "Fichier Données"
-    files:
-      - name: 'fichiercontact'
-        label: 'Fichier Contact'
-        description: 'Modifiez ici les contacts de votre entreprise'
-        file: 'data/contact.yaml'
-        editor:
-          preview: true
-        fields:
-          - { label: 'Adresse email', name: 'email', widget: 'string', hint: 'Modifiez si nécessaire adresse email de la page Contact' }
-          - { label: 'Numéro de téléphone', name: 'phone', widget: 'string', hint: 'Modifiez si nécessaire numéro de téléphone de la page Contact' }
-      - name: 'fichierhomepage'
-        label: 'Page d´Accueil'
-        description: 'Modifiez ici votre page d´Accueil'
-        file: 'data/homepage.yaml'
-        editor:
-          preview: true
-        fields:
-          - label: 'Logo'
-            name: 'logo'
-            widget: 'object'
-            collapsed: true
-            fields:
-              - { label: 'Petit Logo', name: 'mobile', widget: 'image', hint: 'Dimensionner votre logo de la manière suivante + largeur 242px + hauteur 142px'}
-              - { label: 'Grand Logo', name: 'desktop', widget: 'image', hint: 'Dimensionner votre logo de la manière suivante + largeur 400px + hauteur 283px'}
-          - label: 'Photo Page d´Accueil'
-            name: 'hero'
-            widget: 'object'
-            collapsed: true
-            fields:
-              - { label: 'Titre', name: 'heroHeading', widget: 'string', required: false, hint: 'Ceci est le Titre qui apparaitra en gras sur votre image principal'}
-              - { label: 'Sous-titre', name: 'heroSubHeading', widget: 'string', required: false, hint: 'Ceci est le texte qui apparaitra juste en dessous de votre Titre'}
-              - { label: 'Image Principale page d´Acceuil', name: 'heroBackground', widget: 'image', hint: 'Choisissez la photo principale que les clients verront en arrivant sur votre page d´Accueil'}
