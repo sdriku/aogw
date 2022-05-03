@@ -1,37 +1,45 @@
+{{ $data := index .Site.Data }}
+{{- with $data.homepage.hero }}
+
+{{ $img := $data.homepage.hero.heroBackground }}
+{{ $imagePath := printf "/%s" $img }}
+{{ $res := resources.Get $imagePath }}
+{{ $bg550 := $res.Resize "550x" }}
+{{ $bg950 := $res.Resize "950x" }}
+{{ $bg1250 := $res.Resize "1250x" }}
+{{ $bg1700 := $res.Resize "1700x" }}
+
 <style type="text/css">
-
-    @media (max-width: 576px) {
+    @media (max-width: 700px) {
     .bg-hero-image {
-    background-image: url('{{ .backgroundsm | relURL }}');
+    background-image: url('{{ $bg550.RelPermalink }}');
+      }
     }
-  }
-
-    @media (min-width: 577px) {
+    @media (min-width: 701px) {
     .bg-hero-image {
-    background-image: url('{{ .backgroundmd | relURL }}');
+    background-image: url('{{ $bg950.RelPermalink }}');
+      }
     }
-  }
-
     @media (min-width: 992px) {
     .bg-hero-image {
-    background-image: url('{{ .backgroundlg | relURL }}')
+    background-image: url('{{ $bg1250.RelPermalink }}')
       }
     }
-
     @media (min-width: 1300px) {
     .bg-hero-image {
-    background-image: url('{{ .backgroundxl | relURL }}')
+    background-image: url('{{ $bg1700.RelPermalink }}')
       }
     }
-    
 </style>
 
 <div class="bg-hero-image hero-image hero-image-fullscreen" role="img" aria-label="image hero de AOGW">
   <div class="container">
     <div class="hero-text">
       <span class="hero-section">{{ .section }}</span>
-      <h1 style="text-shadow: 3px 0 0 #ffffff, 0 -3px 0 #ffffff, 0 3px 0 #ffffff, -3px 0 0 #ffffff; max-width: fit-content;">{{ .heading }}</h1>
-      <p style="text-shadow: 1px 0 0 #ffffff, 0 -1px 0 #ffffff, 0 1px 0 #ffffff, -3px 0 0 #ffffff;; max-width: fit-content;">{{ .subheading }}</p>
+            <h1 style="text-shadow: 3px 0 0 #ffffff, 0 -3px 0 #ffffff, 0 3px 0 #ffffff, -3px 0 0 #ffffff; max-width: fit-content;">{{ .heroHeading | markdownify }}</h1>
+      <p style="text-shadow: 1px 0 0 #ffffff, 0 -1px 0 #ffffff, 0 1px 0 #ffffff, -3px 0 0 #ffffff;; max-width: fit-content;">{{ .heroSubHeading | markdownify }}</p>
     </div>
   </div>
 </div>
+
+{{ end }}

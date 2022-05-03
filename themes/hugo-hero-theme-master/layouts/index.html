@@ -22,7 +22,7 @@
 
 {{ define "main" }}
 
-{{ partial "hero-image-fullscreen.html" (dict "backgroundsm" .Params.heroBackgroundsm "backgroundmd" .Params.heroBackgroundmd "backgroundlg" .Params.heroBackgroundlg "backgroundxl" .Params.heroBackgroundxl "heading" .Params.heroHeading "subheading" .Params.heroSubHeading "content" .)}}
+{{- partial "hero-image-fullscreen.html" . }}
 
 {{ $headless := .Site.GetPage "/homepage" }}
 {{ $reusablePages := $headless.Resources.ByType "page" }}
@@ -38,7 +38,7 @@
       <h2 class="text-center" style="color:#206dba;"></h2>
     </div>
     <div class="col-4 service-malin">
-    <h2 class="text-center mb-3"><a href="https://www.servicemalin.com/v/kmxAYmJAwTQZ" target="blank"><img width="120" height="120" src="social/verifie.png" title="Mon profil chez Service Malin" alt="Mon profil chez Service Malin"/></a></h2>
+    <h2 class="text-center mb-3"><a href="https://www.servicemalin.com/v/kmxAYmJAwTQZ" target="blank"><img width="120" height="120" src="assets/img/service-malin-verifie.png" title="Mon profil chez Service Malin" alt="Mon profil chez Service Malin"/></a></h2>
   </div>
     {{ range first 6 (sort $prestations ".Params.weight") }}
     <div class="col-12 col-md-6 mb-5 pt-3">

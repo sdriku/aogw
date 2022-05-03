@@ -1,6 +1,7 @@
 baseURL = "https://www.assist-secretariat.com/"
 languageCode = "fr"
 title = "AOGW"
+description = "Armelle votre Assistante de Direction vous offre un service personnalisé, sur site ou à distance."
 themesDir = "themes"
 theme = "hugo-hero-theme-master"
 enableRobotsTXT = true
@@ -11,6 +12,13 @@ canonifyURLs = true
   [module.hugoVersion]
     extended = true
     min = "0.92.0"
+  [[module.mounts]]
+    source = "static"
+    target = "assets"
+  [[module.mounts]]
+    source = "static"
+    target = "static"
+
     
 [sitemap]
 changefreq = "weekly"
@@ -38,14 +46,15 @@ priority = 0.5
       hardWraps = false
       unsafe = true
       xhtml = false
-    
+  [markup.tableOfContents]
+    endLevel = 5
+    ordered = false
+    startLevel = 2
+
+
 [params]
   google_analytics_id=""
 
-  [params.logo]
-    mobile = "images/aogw-logo-200w.png"
-    desktop = "images/aogw-logo-400w.png"
-    alt = "Logo AOGW"
 
   [params.homepage_meta_tags]
     meta_description = "A. Office Gestion Web assiste les dirigeants d'Entreprise, sur site ou à distance."

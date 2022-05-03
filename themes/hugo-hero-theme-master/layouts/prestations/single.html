@@ -4,7 +4,51 @@
 
 {{ define "main" }}
 
-{{ partial "hero-image-setheight.html" (dict "backgroundsm" .Params.heroBackgroundsm "backgroundmd" .Params.heroBackgroundmd "backgroundlg" .Params.heroBackgroundlg "backgroundxl" .Params.heroBackgroundxl "heading" .Params.heroHeading "subheading" .Params.heroSubHeading "section" .Section "content" .)}}
+<!-- Beginning of Partial that I deleted in order to introduce the Resize function -->
+
+{{ $img := .Params.heroBackground }}
+{{ $imagePath := printf "/%s" $img }}
+{{ $res := resources.Get $imagePath }}
+{{ $bg550 := $res.Resize "550x" }}
+{{ $bg950 := $res.Resize "950x" }}
+{{ $bg1250 := $res.Resize "1250x" }}
+{{ $bg1700 := $res.Resize "1700x" }}
+
+<style type="text/css">
+  @media (max-width: 700px) {
+  .bg-image {
+  background-image: url('{{ $bg550.RelPermalink }}');
+    }
+  }
+  @media (min-width: 701px) {
+  .bg-image {
+  background-image: url('{{ $bg950.RelPermalink }}');
+    }
+  }
+    @media (min-width: 992px) {
+  .bg-image {
+  background-image: url('{{ $bg1250.RelPermalink }}')
+    }
+  }
+  @media (min-width: 1300px) {
+  .bg-image {
+  background-image: url('{{ $bg1700.RelPermalink }}')
+    }
+  }
+</style>
+
+<div id="hero" class="bg-image hero-image hero-image-setheight" role="img" aria-label="image hero de AOGW">
+  <div class="container ">
+    <div class="hero-text">
+      <span class="hero-section">{{ .Params.section }}</span>
+      <h1 style="text-shadow: 3px 0 0 #ffffff, 0 -3px 0 #ffffff, 0 3px 0 #ffffff, -3px 0 0 #ffffff; max-width: fit-content;">{{ .Params.heroHeading }}</h1>
+      <p style="text-shadow: 3px 0 0 #ffffff, 0 -3px 0 #ffffff, 0 3px 0 #ffffff, -3px 0 0 #ffffff; max-width: fit-content;">{{ .Params.summary }}</p>
+    </div>
+  </div>
+</div>
+  
+<!-- End of Partial that I deleted in order to introduce the Resize function -->
+
 <div class="container pt-4 pt-md-10 pb-4 pb-md-10">
   <div class="row justify-content-start">
     <div class="col-12 col-md-8">
@@ -17,9 +61,9 @@
 {{ end }}
 
 {{ define "footer_js" }}
-{{ $library := resources.Get "js/libs/library.js" }}
-{{ $services := resources.Get "js/pages/services.js" }}
-{{ $servicesJS := slice $library $services |resources.Concat "js/services.js" }}
+{{ $library := resources.Get "assets/js/libs/library.js" }}
+{{ $services := resources.Get "assets/js/pages/services.js" }}
+{{ $servicesJS := slice $library $services |resources.Concat "assets/js/services.js" }}
 {{ if .Site.IsServer }}
   <script type="text/javascript" src="{{ $servicesJS.RelPermalink }}"></script>
   {{ else }}

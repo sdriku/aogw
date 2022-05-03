@@ -1,9 +1,12 @@
+{{ $data := index .Site.Data }}
+{{- with $data.homepage.logo }}
 <div class='header header-absolute'>
   <div class="container">
     <div class="logo">
-      <a href="{{ .Site.BaseURL }}"><picture><source srcset="{{ .Site.Params.logo.desktop | relURL }}" media="(min-width: 800px)"><img src="{{ .Site.Params.logo.mobile | relURL }}" alt="{{ .Site.Params.logo.alt }}"></picture>
+      <a href="{{ .Site.BaseURL }}"><picture><source srcset="{{ .desktop | absURL }}" media="(min-width: 800px)"><img src="{{ .mobile | absURL }}" alt="Logo AOGW"></picture>
       </a>
     </div>
+{{ end }}
     {{ partial "main-menu.html" . }}
     {{ partial "hamburger.html" . }}
   </div>

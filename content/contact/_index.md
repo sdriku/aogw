@@ -9,9 +9,9 @@ heroBackgroundsm: 'images/aogw-hero-w550.jpg'
 heroBackgroundmd: 'images/aogw-hero-w950.jpg'
 heroBackgroundlg: 'images/aogw-hero-w1250.jpg'
 heroBackgroundxl: 'images/aogw-hero-w1900.jpg'
-iconPhone: 'contact/icon-phone.png'
+iconPhone: 'assets/img/icon-phone.png'
 altPhone: 'numéro de téléphone'
-iconEmail: 'contact/icon-email.png'
+iconEmail: 'assets/img/icon-email.png'
 altEmail: 'adresse email'
 
 ---

@@ -4,11 +4,11 @@ backend:
 
 site_url: https://www.assist-secretariat.com
 display_url: https://www.assist-secretariat.com
-logo_url: https://www.assist-secretariat.com/images/aogw-logo-400w.png
+logo_url: https://www.assist-secretariat.com/assets/img/aogw-logo-400w.png
 locale: 'fr'
 
-media_folder: assets/img
-public_folder: /img
+media_folder: static/assets/img
+public_folder: assets/img
 collections:
   - name: 'sectionprestations'
     label: 'Section Prestations'
@@ -21,6 +21,7 @@ collections:
     fields:
       - { label: 'Titre SEO', name: 'title', widget: 'string', hint: 'Ceci est le Titre SEO qui apparait depuis Google lors dune recherche mais napparait nulle part sur votre site' }
       - { label: 'Description SEO', name: 'description', widget: 'string', hint: 'Ceci est la Description SEO qui apparait depuis Google lors dune recherche + pensez à y introduire vos mots-clés + napparaitra nulle part sur votre site' }
+      - { label: 'Image Principale', name: 'heroBackground', widget: 'image', hint: 'Image principale qui apparait en haut de la page Prestations' }
       - { label: 'Titre de la Page', name: 'heroHeading', widget: 'string', hint: 'Titre qui apparait en haut de la page dédiée' }
       - { label: 'Sous-titre de la Page', name: 'heroSubHeading', widget: 'string', required: false, hint: 'Sous-titre qui apparait juste au dessous du Titre' }
   - name: 'mesprestations'
@@ -32,9 +33,10 @@ collections:
       preview: true
     filter: {field: "mainsection", value: "false"}
     fields:
-      - { label: 'Intitulé sous-section et Titre SEO', name: 'title', widget: 'string', hint: 'Ceci est lintitulé de votre prestation sur le site + le titre SEO de votre page' }
-      - { label: 'Description SEO', name: 'description', widget: 'string', hint: 'Ceci est la Description SEO qui apparaitra depuis Google lors dune recherche + pensez à y introduire vos mots-clés + napparaitra nulle part sur votre site' }
-      - { label: 'Ordre', name: 'weight', widget: 'number', hint: 'ordre dans lequel vos prestations sont listées depuis la page principale Prestations' }
+      - { label: 'Intitulé Prestation et Titre SEO', name: 'title', widget: 'string', hint: 'Ceci est l´intitulé de votre prestation sur le site + le titre SEO de votre page' }
+      - { label: 'Description SEO', name: 'description', widget: 'string', hint: 'Ceci est la Description SEO qui apparaitra depuis Google lors d´une recherche + pensez à y introduire vos mots-clés + n´apparaitra nulle part sur votre site' }
+      - { label: 'Ordre', name: 'weight', widget: 'number', hint: 'Ordre dans lequel vos prestations sont listées depuis la page principale Prestations' }
+      - { label: 'Image Principale', name: 'heroBackground', widget: 'image', hint: 'Image principale illustrant votre Prestation + image apparait en haut de page' }
       - { label: 'Titre de la Page', name: 'heroHeading', widget: 'string', hint: 'Titre qui apparait en haut de la page dédiée' }
       - { label: 'Résumé', name: 'summary', widget: 'string', hint: 'Résumé de quelques lignes qui apparait sur la page principale Prestations ' }
       - { label: 'Contenu', name: 'body', widget: 'markdown', hint: 'Contenu de la page + parlez de votre prestation + ajoutez une ou deux photos si nécessaire + soyez concis mais percutant + pensez à introduire vos mots clés' }
@@ -50,6 +52,7 @@ collections:
     fields:
       - { label: 'Titre SEO', name: 'title', widget: 'string', hint: 'Ceci est le Titre SEO qui apparait depuis Google lors dune recherche mais napparait nulle part sur votre site' }
       - { label: 'Description SEO', name: 'description', widget: 'string', hint: 'Ceci est la Description SEO qui apparait depuis Google lors dune recherche + pensez à y introduire vos mots-clés + napparaitra nulle part sur votre site' }
+      - { label: 'Image Principale', name: 'heroBackground', widget: 'image', hint: 'Image principale illustrant votre Avantage + image apparait en haut de page' }
       - { label: 'Titre de la Page', name: 'heroHeading', widget: 'string', hint: 'Titre qui apparait en haut de la page dédiée' }
       - { label: 'Sous-titre de la Page', name: 'heroSubHeading', widget: 'string', required: false, hint: 'Sous-titre qui apparait juste au dessous du Titre' }
   - name: 'mesavantages'
@@ -61,12 +64,13 @@ collections:
       preview: true
     filter: {field: "mainsection", value: "false"}
     fields:
-      - { label: 'Intitulé sous-section et Titre SEO', name: 'title', widget: 'string', hint: 'Ceci est lintitulé de votre prestation sur le site + le titre SEO de votre page' }
-      - { label: 'Description SEO', name: 'description', widget: 'string', hint: 'Ceci est la Description SEO qui apparaitra depuis Google lors dune recherche + pensez à y introduire vos mots-clés + napparaitra nulle part sur votre site' }
-      - { label: 'Ordre', name: 'weight', widget: 'number', hint: 'ordre dans lequel vos prestations sont listées depuis la page principale Prestations' }
+      - { label: 'Intitulé sous-section et Titre SEO', name: 'title', widget: 'string', hint: 'Ceci est l´intitulé de votre Avantage sur le site + le titre SEO de votre page' }
+      - { label: 'Description SEO', name: 'description', widget: 'string', hint: 'Ceci est la Description SEO qui apparaitra depuis Google lors dune recherche + pensez à y introduire vos mots-clés + n´apparaitra nulle part sur votre site' }
+      - { label: 'Ordre', name: 'weight', widget: 'number', hint: 'ordre dans lequel vos Avantages sont listées depuis la page principale Avantage' }
+      - { label: 'Résumé', name: 'summary', widget: 'string', hint: 'Résumé de quelques lignes qui apparait sur la page principale Prestations ' }
+      - { label: 'Image Principale', name: 'heroBackground', widget: 'image', hint: 'Image principale illustrant votre Avantage + image apparait en haut de page' }
       - { label: 'Titre de la Page', name: 'heroHeading', widget: 'string', hint: 'Titre qui apparait en haut de la page dédiée' }
       - { label: 'Sous-titre de la Page', name: 'heroSubHeading', widget: 'string', required: false, hint: 'Sous-titre qui apparait juste au dessous du Titre' }
-      - { label: 'Résumé', name: 'summary', widget: 'string', hint: 'Résumé de quelques lignes qui apparait sur la page principale Prestations ' }
       - { label: 'Contenu', name: 'body', widget: 'markdown', hint: 'Contenu de la page + parlez de votre avantage + ajoutez une ou deux photos si nécessaire + soyez concis mais percutant + pensez à introduire vos mots clés' }
       
   - name: 'sectiontarifs'
@@ -162,3 +166,25 @@ collections:
         fields:
           - { label: 'Adresse email', name: 'email', widget: 'string', hint: 'Modifiez si nécessaire adresse email de la page Contact' }
           - { label: 'Numéro de téléphone', name: 'phone', widget: 'string', hint: 'Modifiez si nécessaire numéro de téléphone de la page Contact' }
+      - name: 'fichierhomepage'
+        label: 'Page d´Accueil'
+        description: 'Modifiez ici votre page d´Accueil'
+        file: 'data/homepage.yaml'
+        editor:
+          preview: true
+        fields:
+          - label: 'Logo'
+            name: 'logo'
+            widget: 'object'
+            collapsed: true
+            fields:
+              - { label: 'Petit Logo', name: 'mobile', widget: 'image', hint: 'Dimensionner votre logo de la manière suivante + largeur 242px + hauteur 142px'}
+              - { label: 'Grand Logo', name: 'desktop', widget: 'image', hint: 'Dimensionner votre logo de la manière suivante + largeur 400px + hauteur 283px'}
+          - label: 'Photo Page d´Accueil'
+            name: 'hero'
+            widget: 'object'
+            collapsed: true
+            fields:
+              - { label: 'Titre', name: 'heroHeading', widget: 'string', required: false, hint: 'Ceci est le Titre qui apparaitra en gras sur votre image principal'}
+              - { label: 'Sous-titre', name: 'heroSubHeading', widget: 'string', required: false, hint: 'Ceci est le texte qui apparaitra juste en dessous de votre Titre'}
+              - { label: 'Image Principale page d´Acceuil', name: 'heroBackground', widget: 'image', hint: 'Choisissez la photo principale que les clients verront en arrivant sur votre page d´Accueil'}

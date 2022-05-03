@@ -1,20 +1,14 @@
 ---
-heroBackgroundsm: prestations/gestion-comptable-w550.jpg
-heroBackgroundlg: prestations/gestion-comptable-w1250.jpg
-heroHeading: Gestion comptable
-summary: " Vous avez souvent plusieurs semaines de retard dans l’enregistrement
-  de vos écritures comptables ? Confiez-moi leur saisie et évitez ainsi le
-  stress de fin d’exercice."
+title: "Gestion comptable"
+description: "A. OFFICE GESTION WEB peut aussi prendre en charge la saisie de vos écritures Comptables."
+summary: "Vous avez souvent plusieurs semaines de retard dans l’enregistrement de vos écritures comptables ? Confiez-moi leur saisie et évitez ainsi le stress de fin d’exercice."
+heroHeading: "Gestion comptable"
+date: 2021-11-28T15:15:34+10:00
+weight: 3
+icon: "assets/img/service-icon-4.png"
+heroBackground: "assets/img/gestion-comptable-w1900.jpg"
 mainsection: "false"
 featured: true
-date: 2021-11-28T15:15:34+10:00
-title: Gestion comptable
-weight: 3
-icon: prestations/service-icon-4.png
-heroBackgroundxl: prestations/gestion-comptable-w1900.jpg
-description: A. OFFICE GESTION WEB peut aussi prendre en charge la saisie de vos
-  écritures Comptables.
-heroBackgroundmd: prestations/gestion-comptable-w950.jpg
 ---
 Vous avez souvent plusieurs semaines de retard dans l’enregistrement de vos écritures comptables                                           ? Confiez-moi leur saisie et évitez ainsi le stress de fin d’exercice.
 

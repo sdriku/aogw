@@ -1,0 +1,10 @@
+############################# Logo ############################
+logo:
+  mobile: "assets/img/aogw-logo-200w.png"
+  desktop: "assets/img/aogw-logo-400w.png"
+
+############################# Hero ############################
+hero:
+  heroHeading: "A. Office Gestion Web"
+  heroSubHeading: "Armelle votre Assistante de Direction vous offre un service personnalisé, sur site ou à distance"
+  heroBackground: "assets/img/aogw-hero.jpg"
