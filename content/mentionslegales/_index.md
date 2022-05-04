@@ -1,14 +1,10 @@
 ---
-
-title: 'Mentions Légales'
+title: "Mentions Légales"
 date: 2018-02-22T17:01:34+07:00
-description: Voici les Mentions légales d'A. Office Gestion Web, votre Assistante de Direction.
-heroHeading: 'Mentions légales'
-heroSubHeading: ''
-heroBackgroundsm: 'images/aogw-hero-w550.jpg'
-heroBackgroundmd: 'images/aogw-hero-w950.jpg'
-heroBackgroundlg: 'images/aogw-hero-w1250.jpg'
-heroBackgroundxl: 'images/aogw-hero-w1900.jpg'
+description: "Voici les Mentions légales d'A. Office Gestion Web, votre Assistante de Direction."
+heroHeading: "Mentions légales"
+heroSubHeading: ""
+heroBackground: "assets/img/aogw-hero.jpg"
 
 ---
 

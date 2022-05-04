@@ -1,14 +1,11 @@
 ---
-title: 'Mes Tarifs'
+title: "Mes Tarifs"
 date: 2018-12-06T09:29:16+10:00
 mainsection: "true"
 description : "Voici les tarifs d'A. Office Gestion Web sur site et à distance."
-heroHeading: 'Mes Tarifs'
+heroHeading: "Mes Tarifs"
 heroSubHeading: "Voici les tarifs d'A. Office Gestion Web sur site et à distance."
-heroBackgroundsm: 'images/aogw-hero-w550.jpg'
-heroBackgroundmd: 'images/aogw-hero-w950.jpg'
-heroBackgroundlg: 'images/aogw-hero-w1250.jpg'
-heroBackgroundxl: 'images/aogw-hero-w1900.jpg'
+heroBackground: "assets/img/aogw-hero.jpg"
 ---
 
 {{< content-strip-left "/pages/tarifs" "content1" >}}

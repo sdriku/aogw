@@ -1,15 +1,12 @@
 ---
-title: 'Qui suis-je'
+title: "Qui suis-je"
 date: 2018-12-06T09:29:16+10:00
 mainsection: "true"
 description : "A propos d'A. Office Gestion Web."
-layout: 'quisuisje'
-heroHeading: 'Qui suis-je'
+layout: "quisuisje"
+heroHeading: "Qui suis-je"
 heroSubHeading: "Je me prénomme Armelle, je suis Assistante de Direction avec plus de 30 années d’expérience."
-heroBackgroundsm: 'images/aogw-hero-w550.jpg'
-heroBackgroundmd: 'images/aogw-hero-w950.jpg'
-heroBackgroundlg: 'images/aogw-hero-w1250.jpg'
-heroBackgroundxl: 'images/aogw-hero-w1900.jpg'
+heroBackground: "assets/img/aogw-hero.jpg"
 ---
 
 <div>
