@@ -31,4 +31,4 @@ La gestion administrative prend du temps, beaucoup de temps. A. OFFICE GESTION W
 
 ##### VOUS AVEZ D’AUTRES ATTENTES, N’ATTENDEZ-PAS, CONTACTEZ-MOI !
 
-{{< img src="wallet-3200387_640-gestion-administrative.jpg" width="20%" height="auto" alt="" >}}
+{{< img src="wallet-3200387_640-gestion-administrative.jpg" width="100%" height="auto" alt="" >}}
