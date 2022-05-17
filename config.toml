@@ -5,7 +5,6 @@ description = "Armelle votre Assistante de Direction vous offre un service perso
 themesDir = "themes"
 theme = "hugo-hero-theme-master"
 enableRobotsTXT = true
-canonifyURLs = true
 
 
 [module]
