@@ -1,0 +1,22 @@
+{{ define "main" }}
+
+<style>
+	.image-thanks {
+	background-image: url('{{ .Params.bg_image }}');
+	}
+</style>
+
+{{ "<!-- merci page -->" | safeHTML }}
+<div class="image-thanks hero-image hero-image-fullscreen" role="img" aria-label="image hero de AOGW">
+	<div class="container">
+	  <div class="hero-text">
+		<span class="hero-section"></span>
+			  <h1 style="text-shadow: 3px 0 0 #ffffff, 0 -3px 0 #ffffff, 0 3px 0 #ffffff, -3px 0 0 #ffffff; max-width: fit-content;">Merci !</h1>
+		<p style="text-shadow: 1px 0 0 #ffffff, 0 -1px 0 #ffffff, 0 1px 0 #ffffff, -3px 0 0 #ffffff;; max-width: fit-content;">Votre message a été envoyé avec succès, nous vous contacterons dans les meilleurs délais.</p>
+		<a href="{{ site.BaseURL | relLangURL }}" class="button"> <i class="ti-angle-double-left"></i>Retour à l'accueil</a>
+	</div>
+	</div>
+  </div>
+{{ "<!-- /merci page-->" | safeHTML }}
+
+{{ end }}
