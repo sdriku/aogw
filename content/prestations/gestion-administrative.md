@@ -1,14 +1,17 @@
 ---
-title: "Gestion administrative"
-description: "A. OFFICE GESTION WEB peut prendre en charge votre Gestion administrative."
-summary: "Vous n’avez plus temps pour gérer votre secrétariat, vous ne voulez pas embaucher une secrétaire ou une assistante, vous voulez diminuer vos coûts ! Confiez-moi votre gestion administrative afin de gagner du temps et de l’argent."
+heroBackground: assets/img/gestion-administrative-w1900.jpg
 heroHeading: Gestion administrative
-date: 2021-11-18T12:33:46+10:00
-weight: 1
-icon: "assets/img/service-icon-1.png"
-heroBackground: "assets/img/gestion-administrative-w1900.jpg"
+summary: Vous n’avez plus temps pour gérer votre secrétariat, vous ne voulez pas
+  embaucher une secrétaire ou une assistante, vous voulez diminuer vos coûts !
+  Confiez-moi votre gestion administrative afin de gagner du temps et de
+  l’argent.
 mainsection: "false"
 featured: true
+date: 2021-11-18T12:33:46+10:00
+title: Gestion administrative
+weight: 1
+icon: assets/img/service-icon-1.png
+description: A. OFFICE GESTION WEB peut prendre en charge votre Gestion administrative.
 ---
 ### Les entreprises n’ont pas de temps à perdre, elles doivent être productives.
 
