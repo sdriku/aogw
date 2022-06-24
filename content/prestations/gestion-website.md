@@ -45,17 +45,9 @@ Ce type de site résoud chacun des problèmes listés précédemment:
 - Rapidité! Votre site statique est lu directement par votre explorateur internet. Pas de voyage nécessaire vers une quelconque base de données, vous serez bluffé
 - Sécurité! Par définition un site statique n'est pas associé à une base de données, il n'y a donc aucun moyen de faire tomber votre site.
 - Aucune maintenance en vue, tout juste pouvez-vous sauvegarder vos fichiers après chaque mise à jour de votre contenu (cela prend 10 secondes).
-- L'hébergement des sites statiques est gratuit, oui vous avez bien lu. Je me charge de vous créér les accès, et je vous passe la main au moment du paiement final / livraison du site.
+- L'hébergement des sites statiques est peu coûteux, l'infrastructure étant légère. Je me charge de vous créér les accès, et je vous passe la main au moment du paiement final / livraison du site. Je peux aussi l'héberger sur mon compte développeur (chez Netlify ou Vercel, 2 hébergeurs de confiance)
 - Référencement de votre site statique est un plaisir. Je vous fournirai tous les champs "méta" dédiés, que vous pourrez remplir vous-même avec vos mots clés. La rapidité inhérente à un site statique vous permettra aussi de figurer en bonne place dans le classement Google.
 
 <br>
 
-### Mais dans ce cas, pourquoi tout le monde ne crée pas de site statique?
-
- Car un site statique présente certaines limitations, que je passe en revue ci-dessous. Si vous êtes dans l'un des cas suivants, alors un site statique n'est probablement pas pour vous:
-
-1. 
-2. 
-3. 
-4. 
-5. 
+{{< hl-text cyan >}}Contactez-moi avec quelques détails de base concernant votre activité (secteur d'activité, logo, but recherché), je vous enverrai rapidement une maquette du site, et un devis si vous êtes satisfaits de la maquette.{{< /hl-text >}}

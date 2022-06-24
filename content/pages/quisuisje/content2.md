@@ -8,4 +8,4 @@ background: ''
 align: left
 ---
 
-Afin de parfaire mon parcours, j’ai pris la décision de suivre une formation longue (2 ans). J´ai passé avec succès le diplôme Assistante dirigeante d’entreprise artisanale.
+Afin de parfaire mon parcours, j’ai pris la décision en 2010 de suivre une formation longue. J´ai passé avec succès le diplôme Assistante dirigeante d’entreprise artisanale.

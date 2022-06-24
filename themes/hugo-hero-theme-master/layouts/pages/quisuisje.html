@@ -18,11 +18,13 @@
   @media (max-width: 700px) {
   .bg-image {
   background-image: url('{{ $bg550.RelPermalink }}');
+  background-position: 50% 50%;
     }
   }
   @media (min-width: 701px) {
   .bg-image {
   background-image: url('{{ $bg950.RelPermalink }}');
+  background-position: 50% 50%;
     }
   }
     @media (min-width: 992px) {
@@ -37,12 +39,12 @@
   }
 </style>
 
-<div id="hero" class="bg-image hero-image hero-image-setheight" role="img" aria-label="image hero de AOGW">
+<div id="hero" class="bg-image hero-image hero-image-setheight hero-image-blend-overlay" role="img" aria-label="image hero de AOGW">
   <div class="container ">
     <div class="hero-text">
       <span class="hero-section">{{ .Params.section }}</span>
-      <h1 style="text-shadow: 3px 0 0 #ffffff, 0 -3px 0 #ffffff, 0 3px 0 #ffffff, -3px 0 0 #ffffff; max-width: fit-content;">{{ .Params.heroHeading }}</h1>
-      <p style="text-shadow: 3px 0 0 #ffffff, 0 -3px 0 #ffffff, 0 3px 0 #ffffff, -3px 0 0 #ffffff; max-width: fit-content;">{{ .Params.summary }}</p>
+      <h1 style="max-width: fit-content;color:white">{{ .Params.heroHeading }}</h1>
+      <p style="max-width: fit-content;color:white">{{ .Params.summary }}</p>
     </div>
   </div>
 </div>
@@ -54,7 +56,7 @@
 {{ $subpages := sort $subpages ".Params.weight" }}
 {{ range $subpages }}
 <div class="strip bg-cover bg-position-top bg-overlay" style="background-image: url('{{ .Params.background | relURL }}');">
-  <div class="container pt-17 pb-17">
+  <div class="container pt-5 pb-0">
     <div class="row">
       <div class="col-12 col-md-6 {{ if eq .Params.align "right" }}offset-md-6{{ end }}">
         <h2 class="text-primary text-capitalize">{{ .Title }}</h2>
@@ -67,7 +69,4 @@
   </div>
 </div>
 {{ end }}
-
-{{ .Content }}
-
 {{ end }}

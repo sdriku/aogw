@@ -5,7 +5,7 @@ mainsection: "false"
 description : "Ma clientèle."
 weight: 3
 background: ''
-align: right
+align: left
 button: 'Contactez-moi'
 buttonLink: 'contact'
 ---
