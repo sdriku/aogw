@@ -1,4 +1,4 @@
-baseURL = "https://www.assist-secretariat.com/"
+baseURL = "https://www.aogestionweb.com/"
 languageCode = "fr"
 title = "AOGW"
 description = "Armelle votre Assistante de Direction vous offre un service personnalisé, sur site ou à distance."
@@ -59,7 +59,7 @@ priority = 0.5
     meta_description = "A. Office Gestion Web assiste les dirigeants d'Entreprise, sur site ou à distance."
     meta_og_title = "AOGW - A. Office Gestion Web"
     meta_og_type = "website"
-    meta_og_url = "https://www.assist-secretariat.com/"
+    meta_og_url = "https://www.aogestionweb.com/"
     meta_og_image = ""
     meta_og_description = "A. Office Gestion Web assiste les dirigeants d'Entreprise, sur site ou à distance."
 

@@ -18,7 +18,7 @@ heroBackground: "assets/img/aogw-hero.jpg"
 - Nº Identification TVA: Exemption micro-entreprise
 - Tél: 06 68 32 84 18
 - Email: aofficegestionweb@gmail.com
-- Web: www.assist-secretariat.com
+- Web: www.aogestionweb.com
 
 ***
 
@@ -48,7 +48,7 @@ L'usage de ce site web est régi par la loi française à l'exception de toute a
 
 <br>
 
-Nous nous engageons à ce que la collecte et le traitement de vos données, effectués à partir du site https://www.assist-secretariat.com/, soient conformes au règlement général sur la protection des données (RGPD) et à la loi Informatique et Libertés.
+Nous nous engageons à ce que la collecte et le traitement de vos données, effectués à partir du site https://www.aogestionweb.com/, soient conformes au règlement général sur la protection des données (RGPD) et à la loi Informatique et Libertés.
 La présente Politique vous informe sur la façon dont AOGW, ses sous-traitants et ses éventuels partenaires traitent vos données personnelles.
 
 Cette Politique est notamment applicable aux clients et utilisateurs des offres et services AOGW.
@@ -74,7 +74,7 @@ Quels sont les objectifs du recueil de ces données (finalités) ;
 Si ces données sont obligatoires ou facultatives pour la gestion de votre demande ;
 Qui pourra en prendre connaissance (uniquement AOGW);
 Vos droits en matière de protection des données personnelles et la façon de les exercer auprès de la CNIL.
-Les données personnelles recueillies dans le cadre des services proposés sur https://www.assist-secretariat.com/ sont traitées selon des protocoles sécurisés et permettent à AOGW de gérer les demandes reçues dans ses applications informatiques.
+Les données personnelles recueillies dans le cadre des services proposés sur https://www.aogestionweb.com/ sont traitées selon des protocoles sécurisés et permettent à AOGW de gérer les demandes reçues dans ses applications informatiques.
 
 <br>
 

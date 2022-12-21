@@ -2,9 +2,9 @@ backend:
   name: git-gateway
   branch: main # Branch to update (optional; defaults to master)
 
-site_url: https://www.assist-secretariat.com
-display_url: https://www.assist-secretariat.com
-logo_url: https://www.assist-secretariat.com/assets/img/aogw-logo-400w.png
+site_url: https://www.aogestionweb.com
+display_url: https://www.aogestionweb.com
+logo_url: https://www.aogestionweb.com/assets/img/aogw-logo-400w.png
 locale: 'fr'
 
 media_folder: static/assets/img

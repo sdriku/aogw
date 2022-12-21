@@ -27,7 +27,7 @@ A. OFFICE GESTION WEB vous propose de gérer votre secrétariat juridique soit e
 * transcription ou retranscription de dictées numériques (courrier, courriel, assignation, conclusion, requête, compte-rendu, contrat….),
 * préparation de dossiers de plaidoiries.
 
-[La transcription ou retranscription](https://www.assist-secretariat.com/prestations/retranscription/) est faite avec le logiciel EXPRESS SCRIBE.
+[La transcription ou retranscription](https://www.aogestionweb.com/prestations/retranscription/) est faite avec le logiciel EXPRESS SCRIBE.
 
 La prise de notes rapide en sténographie est effectuée avec la méthode PREVOST DELAUNAY, méthode que j’utilise depuis plus de 30 ans. La sténographie est faite de formes géométriques composée de point, trait, crochet, courbes…
 
