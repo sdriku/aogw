@@ -2,8 +2,9 @@
 draft: false
 heroBackground: assets/img/gestion-juridique-w1900.jpg
 heroHeading: Gestion Juridique
-summary: Vous ne souhaitez plus rédiger vous-même vos assignations, conclusions,
-  requêtes, compte-rendu, contrats? Déléguez ces travaux.
+summary: Vous ne souhaitez plus saisir vos assignations, conclusions, requêtes,
+  comptes rendus, contrats, actes... ? Déléguez ces travaux à A. OFFICE GESTION
+  WEB !
 mainsection: "false"
 featured: true
 date: 2021-11-18T12:33:46+10:00
@@ -11,7 +12,7 @@ title: Gestion Juridique
 weight: 2
 icon: assets/img/service-icon-6.png
 description: A. OFFICE GESTION WEB propose des travaux de
-  transcription/retranscription pour toutes professions libérales.
+  transcription/retranscription pour les libéraux.
 ---
 Vous ne souhaitez plus rédiger vous-même vos assignations, conclusions, requêtes, compte-rendu, contrats? Vous pouvez me confier ces travaux.
 
