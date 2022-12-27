@@ -1,6 +1,6 @@
 ---
 heroBackground: assets/img/gestion-comptable-w1900.jpg
-heroHeading: Gestion comptable (sous couvert d'un expert-comptable ou d'un
+heroHeading: Gestion comptable (sous couvert d'un Expert-comptable ou d'un
   Cabinet comptable)
 summary: Vous avez souvent plusieurs semaines de retard dans l’enregistrement de
   vos écritures comptables ? Confiez-moi leur saisie et évitez ainsi le stress
@@ -28,9 +28,11 @@ Afin de tenir une comptabilité au plus près de la réalité, nous avons besoin
 
 Je n'interviens que pour des entreprises qui ont l'accord de leur Cabinet Comptable ou leur Expert-Comptable. 
 
-Il m'est arrivée de sous-traiter avec des Experts Comptables faisant partis de l'Ordre des Experts Comptables, qui ont besoin de mes services (pour cause saisie de factures trop importantes) pour ventiler les écritures d'achats et les écritures de ventes des dossiers de leurs clients.
+Il m'est arrivée de sous-traiter avec des Experts Comptables faisant partis de l'Ordre des Experts Comptables   (pour cause saisie de factures trop importantes) pour ventiler les écritures d'achats et les écritures de ventes des dossiers de leurs clients.
 
 Vous pouvez me faire confiance !
+
+
 
 QUELS SONT LES LOGICIELS DE COMPTABILITÉ UTILISES ?
 
@@ -43,4 +45,4 @@ Votre Cabinet comptable ou votre Expert-comptable saisit vos écritures comptabl
 
 <br>
 
-### N’oubliez pas : la saisie de vos écritures comptables peut se faire en télétravail, solution plus économique pour mes clients.
+### N’oubliez pas ! la saisie de vos écritures comptables peut se faire en télétravail, solution plus économique pour mes clients.
