@@ -16,7 +16,11 @@ description: A. OFFICE GESTION WEB retranscrit différents types de documents,
 ---
 Vous n'avez plus le temps ni l'envie de rédiger vos comptes rendus de réunion, vos conclusions, vos requêtes, vos actes ... ? Envoyez-moi un enregistrement et je m´occupe de la rédaction.
 
-## La retranscription est un travail long et difficile.
+## La retranscription/transcription est un travail long et difficile, mais c'est une activité passionnante, exigeante, il faut énormément de concentration.
+
+La retranscription/transcription 
+
+
 
 Armelle, secrétaire, assistante de direction de A. OFFICE GESTION WEB, propose à ses futurs clients de les décharger de cette tâche.
 
