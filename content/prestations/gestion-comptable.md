@@ -32,8 +32,6 @@ Il m'est arrivée de sous-traiter avec des Experts Comptables faisant partis de 
 
 Vous pouvez me faire confiance !
 
-
-
 QUELS SONT LES LOGICIELS DE COMPTABILITÉ UTILISES ?
 
 * La gamme SAGE,
@@ -41,7 +39,7 @@ QUELS SONT LES LOGICIELS DE COMPTABILITÉ UTILISES ?
 * ZEPHYR,
 * QUADRATUS de CEGID
 
-Votre Cabinet comptable ou votre Expert-comptable saisit vos écritures comptables sur un logiciel méconnu de A. OFFICE GESTION WEB ? cela importe peu, Armelle sait s’adapter, mais prévoyez un léger temps d’adaptation.
+Votre Cabinet comptable ou votre Expert-comptable saisit vos écritures comptables sur un logiciel méconnu de A. OFFICE GESTION WEB ? cela importe peu, Armelle s'adapte, mais prévoir un léger temps d’adaptation.
 
 <br>
 
