@@ -18,9 +18,7 @@ Vous n'avez plus le temps ni l'envie de rédiger vos comptes rendus de réunion,
 
 ## La retranscription/transcription est un travail long et difficile, mais c'est une activité passionnante, exigeante, il faut énormément de concentration.
 
-La retranscription/transcription 
-
-
+La retranscription/transcription est une passion, elle traite différents sujets, que ce soient économiques, scientifiques, politiques.... Elle requiert surtout une bonne orthographe, 
 
 Armelle, secrétaire, assistante de direction de A. OFFICE GESTION WEB, propose à ses futurs clients de les décharger de cette tâche.
 
