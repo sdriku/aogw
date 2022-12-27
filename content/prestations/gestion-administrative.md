@@ -21,9 +21,9 @@ La gestion administrative prend du temps, beaucoup de temps. A. OFFICE GESTION W
 * accueil téléphonique ou physique,
 * tenue d’agenda (Google agenda),
 * gestion des mails entrants et sortants,
-* rédaction de courriers et courriels,
+* rédaction de courriers et courriels, rédaction de notes...
 * mise en page, relecture,
-* prise de notes rapide en sténographie avec la méthode PREVOST DELAUNAY,
+* prise de notes rapide en sténographie avec la méthode PREVOST DELAUNAY très appréciée par les entreprises,
 * création de formulaires,
 * transcription ou retranscription de courriers, courriels, contrats, compte-rendus opératoires, rapports, audits, compte- rendus de réunions, procès verbaux…
 * gestion de devis et factures,
