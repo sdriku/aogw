@@ -17,7 +17,7 @@ description: A. OFFICE GESTION WEB retranscrit différents types de documents,
 ---
 Vous n'avez plus le temps ni l'envie de rédiger vos comptes rendus de réunion, vos conclusions, vos requêtes, vos actes ... ? Envoyez-moi un enregistrement et je m´occupe de la rédaction.
 
-## La retranscription/transcription est un travail long et difficile, mais c'est une activité passionnante, exigeante, il faut énormément de concentration.
+## La retranscription/transcription est un travail long et difficile, mais c'est une activité passionnante, exigeante, il faut énormément de concentration, mais le plus important est de rendre un travail de qualité.
 
 La retranscription/transcription est une passion, elle traite différents sujets, que ce soient économiques, scientifiques, politiques.... Elle requiert surtout une bonne orthographe, 
 
@@ -37,8 +37,6 @@ A. OFFICE GESTION WEB réalise plusieurs types de retranscription, tels que :
 Ces retranscriptions peuvent être effectuées selon 3 méthodes :
 
 * le MOT A MOT ou VERBATIM ou SOCIOLOGIQUE – l’on retranscrit exactement ce qui est formulé, y compris les hésitations, les répétitions, les erreurs de langage,
-
-
 * la transcription REVISEE OU REFORMULEE – l’on retranscrit dans un français correct tout en gardant l’intégralité du texte mais en supprimant les hésitations, les répétitions, les fautes de syntaxe, les tics de langage comme “grave”, “carrément”, “non mais oui”…)
 * le COMPTE-RENDU OU LA SYNTHESE – qui est un résumé du texte, le plus souvent retranscrit dans un style indirect (“je = il”)
 
