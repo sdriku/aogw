@@ -12,7 +12,8 @@ icon: assets/img/service-icon-3.png
 description: A. OFFICE GESTION WEB retranscrit différents types de documents,
   tels que rédaction de compte-rendu de réunion pour les Comités d’entreprise,
   les CHSCT, les AG - rédaction de procès-verbaux - rédaction de thèses,
-  séminaires, mémoires - dictée numérique - conclusions, requêtes, assignations.
+  séminaires, mémoires - dictée numérique - conclusions, requêtes,
+  assignations...
 ---
 Vous n'avez plus le temps ni l'envie de rédiger vos comptes rendus de réunion, vos conclusions, vos requêtes, vos actes ... ? Envoyez-moi un enregistrement et je m´occupe de la rédaction.
 
