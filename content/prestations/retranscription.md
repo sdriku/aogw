@@ -29,13 +29,16 @@ A. OFFICE GESTION WEB réalise plusieurs types de retranscription, tels que :
 * la rédaction de procès-verbaux,
 * la rédaction de thèses, séminaires, mémoires…
 * la rédaction de dictée numérique,
-* la rédacton de conclusions, requêtes, assignations…
+* la rédacton de conclusions, requêtes, assignations
+* la rédaction de vos actes...
 
 <br>
 
 Ces retranscriptions peuvent être effectuées selon 3 méthodes :
 
 * le MOT A MOT ou VERBATIM ou SOCIOLOGIQUE – l’on retranscrit exactement ce qui est formulé, y compris les hésitations, les répétitions, les erreurs de langage,
+
+
 * la transcription REVISEE OU REFORMULEE – l’on retranscrit dans un français correct tout en gardant l’intégralité du texte mais en supprimant les hésitations, les répétitions, les fautes de syntaxe, les tics de langage comme “grave”, “carrément”, “non mais oui”…)
 * le COMPTE-RENDU OU LA SYNTHESE – qui est un résumé du texte, le plus souvent retranscrit dans un style indirect (“je = il”)
 
