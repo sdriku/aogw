@@ -13,7 +13,7 @@ Je me suis mise à mon compte en 2013 sous le régime fiscal de l'auto-entrepris
 
 Je m´épanouis pleinement au contact de mes clients, qu´ils soient libéraux, artisans, entrepreneurs ou petites entreprises.
 
-Vous me direz "Pourquoi vous aimez votre métier d'assistante de direction ?" Tout simplement, de par la diversité des tâches que l'on me confient. En 10 ans, j'ai appris, beaucoup appris. 
+Vous me direz "Pourquoi vous aimez votre métier d'assistante de direction ?" Tout simplement, de par la diversité des tâches que l'on me confient. En 10 ans, j'ai beaucoup appris. 
 
 Si vous me faites confiance, CONTACTEZ MOI !
 
