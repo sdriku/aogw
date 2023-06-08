@@ -7,8 +7,6 @@ weight: 2
 background: ""
 align: left
 ---
-Afin de parfaire mon parcours, j’ai pris la décision en 2010 de suivre une formation longue. 
+Afin de parfaire mon parcours, j’ai pris la décision en 2010 de suivre une formation longue de 2 ans.
 
 J´ai passé avec succès le diplôme Assistante dirigeante d’entreprise artisanale/assistante de gestion.
-
-Puis, j'ai continué mon parcours en obtenant des modules de comptabilité aimant plus particulièrement les chiffres.
