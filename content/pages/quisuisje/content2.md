@@ -7,11 +7,11 @@ weight: 2
 background: ""
 align: left
 ---
-Afin de parfaire mon parcours, j’ai pris la décision en 2010 de suivre une formation longue de 2 ans.
+Afin de parfaire mon parcours d'assistante de direction, j’ai pris la décision, en 2010, de suivre une formation longue de 2 ans.
 
 J´ai passé avec succès le diplôme Assistante dirigeante d’entreprise artisanale/assistante de gestion.
 
-Puis j'ai continué de me former en obtenant des module de comptabilité (aimant tout particulièrement les chiffres en comptabilité).
+Puis j'ai continué de me former en obtenant des modules de comptabilité (aimant tout particulièrement les chiffres en comptabilité).
 
 Aujourd'hui, je suis en mesure de faire de la saisie comptable sous couvert d'un Cabinet comptable ou d'un expert comptable.
 
