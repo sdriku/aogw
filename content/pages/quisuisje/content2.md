@@ -1,11 +1,14 @@
 ---
-title: 'Apprentissage continu'
+title: Apprentissage continu
 date: 2018-12-06T09:29:16+10:00
 mainsection: "false"
-description : "Mon parcours."
+description: Mon parcours.
 weight: 2
-background: ''
+background: ""
 align: left
 ---
+Afin de parfaire mon parcours, j’ai pris la décision en 2010 de suivre une formation longue. 
 
-Afin de parfaire mon parcours, j’ai pris la décision en 2010 de suivre une formation longue. J´ai passé avec succès le diplôme Assistante dirigeante d’entreprise artisanale.
+J´ai passé avec succès le diplôme Assistante dirigeante d’entreprise artisanale/assistante de gestion.
+
+Puis, j'ai continué mon parcours en obtenant des modules de comptabilité aimant plus particulièrement les chiffres.
