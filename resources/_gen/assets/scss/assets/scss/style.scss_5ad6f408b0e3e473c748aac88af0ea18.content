@@ -6319,7 +6319,7 @@ html {
     .services-section .service-card .title {
       font-weight: bold;
       font-size: 1.25rem;
-      margin-bottom: 0.5rem; }
+      margin-bottom: 0.75rem; }
     .services-section .service-card .description {
       font-size: 1rem;
       color: #555; }

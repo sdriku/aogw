@@ -37,6 +37,29 @@
   background-image: url('{{ $bg1700.RelPermalink }}')
     }
   }
+
+#about {
+  background: linear-gradient(135deg, #ffffff, #e6f2ff);;
+}
+
+#about h2 {
+  color: #333;
+}
+
+#about p {
+  color: #555;
+}
+
+#about .btn-primary {
+  background-color: #0056b3;
+  border-color: #00408a;
+  padding: 0.75rem 1.5rem;
+}
+
+#about .btn-primary:hover {
+  background-color: #00408a;
+}
+
 </style>
 
 <div id="hero" class="bg-image hero-image hero-image-setheight hero-image-blend-overlay" role="img" aria-label="image hero de AOGW">
@@ -44,7 +67,7 @@
     <div class="hero-text">
       <span class="hero-section">{{ .Params.section }}</span>
       <h1 style="max-width: fit-content;color:white">{{ .Params.heroHeading }}</h1>
-      <p style="max-width: fit-content;color:white">{{ .Params.summary }}</p>
+      <p style="max-width: fit-content;color:white">{{ .Params.heroSubHeading }}</p>
     </div>
   </div>
 </div>
@@ -56,9 +79,9 @@
 {{ $subpages := sort $subpages ".Params.weight" }}
 {{ range $subpages }}
 <div class="strip bg-cover bg-position-top bg-overlay" style="background-image: url('{{ .Params.background | relURL }}');">
-  <div class="container pt-5 pb-0">
+  <div class="container pt-5 pb-0" id="about">
     <div class="row">
-      <div class="col-12 col-md-6 {{ if eq .Params.align "right" }}offset-md-6{{ end }}">
+      <div class="col-12">
         <h2 class="text-primary text-capitalize">{{ .Title }}</h2>
         {{ .Content }}
         {{ if .Params.button }}

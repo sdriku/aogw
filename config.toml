@@ -80,7 +80,7 @@ priority = 0.5
 ##    weight = 2
 
 [[menu.main]]
-    name = "Qui suis-je"
+    name = "Mon Parcours"
     url = "/quisuisje/"
     weight = 4
 

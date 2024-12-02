@@ -1,20 +1,14 @@
 ---
-align: left
-buttonLink: contact
-mainsection: "false"
-background: ""
+title: Ma Philosophie
 date: 2018-12-06T09:29:16+10:00
-button: Contactez-moi
-title: Ma clientèle
-description: Ma clientèle.
+mainsection: "false"
+description: Mon parcours
 weight: 3
+background: ""
+align: left
 ---
-Je me suis mise à mon compte en 2013 sous le régime fiscal de l'auto-entreprise.
+<br>
 
-Je m´épanouis pleinement au contact de mes clients, qu´ils soient libéraux, artisans, entrepreneurs ou petites entreprises.
+Depuis 2013, en tant qu’indépendante, j’ai eu l’opportunité de travailler avec une clientèle variée : **artisans BTP, professions libérales (médecins, avocats), entrepreneurs et petites entreprises**. 
 
-Vous me direz "Pourquoi vous aimez votre métier d'assistante de direction ?" Tout simplement, de par la diversité des tâches que l'on me confient. En 10 ans, j'ai beaucoup appris. 
-
-Si vous me faites confiance, CONTACTEZ MOI !
-
-Je suis à votre disposition.
+Cette diversité me permet d’apporter des solutions personnalisées et efficaces.

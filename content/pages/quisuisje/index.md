@@ -1,11 +1,11 @@
 ---
-title: "Qui suis-je"
+title: "Mon Parcours"
 date: 2018-12-06T09:29:16+10:00
 mainsection: "true"
 description : "A propos d'A. Office Gestion Web."
 layout: "quisuisje"
-heroHeading: "Qui suis-je"
-heroSubHeading: "Je me prénomme Armelle, je suis Assistante de Direction avec plus de 30 années d’expérience."
+heroHeading: "Mon Parcours"
+heroSubHeading: "Une expérience riche au service des professionnels"
 heroBackground: "assets/img/aogw-hero.jpg"
 ---
 
@@ -17,4 +17,7 @@ heroBackground: "assets/img/aogw-hero.jpg"
 </div>
 <div>
 {{< content-strip-center "/pages/quisuisje" "content3" >}}
+</div>
+<div>
+{{< content-strip-center "/pages/quisuisje" "content4" >}}
 </div>

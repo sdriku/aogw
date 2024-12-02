@@ -37,6 +37,59 @@
   background-image: url('{{ $bg1700.RelPermalink }}')
     }
   }
+
+/* Table Styling */
+.table {
+  margin-top: 1rem;
+  border-collapse: collapse;
+}
+
+.table thead {
+  background-color: #014382; /* Dark Bootstrap color */
+  color: white;
+}
+
+.table-bordered th,
+.table-bordered td {
+  border: 1px solid #dee2e6;
+}
+
+.table td {
+  font-size: 1.2rem;
+  color: #212529;
+}
+
+.table th {
+  font-size: 1.2rem;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.table-responsive {
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+/* Headings */
+p.lead {
+  font-size: 1.2rem;
+  font-weight: 500;
+  color: black; /* Bootstrap muted color */
+}
+
+/* Ensure equal-width columns */
+.table th,
+.table td {
+  width: 33.33%; /* Equal width for three columns */
+  text-align: left; /* Center align text */
+  vertical-align: middle; /* Vertically center align content */
+}
+
+/* Add some padding for better readability */
+.table td,
+.table th {
+  padding: 1rem;
+}
 </style>
 
 
@@ -52,5 +105,45 @@
   
 <!-- End of Partial that I deleted in order to introduce the Resize function -->
 
-{{ .Content }}
+<div class="container my-10">
+  <!-- Introductory Paragraph -->
+  <div class="text-center mb-4">
+    <p class="lead">
+      Découvrez mes services adaptés à vos besoins, que ce soit sur site, en mode hybride ou entièrement à distance.
+      Contactez-moi pour obtenir un devis personnalisé en fonction de vos exigences.
+    </p>
+  </div>
+
+  <!-- Pricing Table -->
+  <div class="table-responsive">
+    <table class="table table-bordered text-center">
+      <thead class="table-dark">
+        <tr>
+          <th class="col">Sur Site</th>
+          <th class="col">Hybride</th>
+          <th class="col">A Distance</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Tarif Journalier forfaitaire : négociable pour 4 heures et +</td>
+          <td>A partir de 22€ / heure : à négocier selon prestation</td>
+          <td>À partir de 22€ / heure : à négocier selon prestation</td>
+        </tr>
+        <tr>
+          <td>Moins de 4 heures : 30€ / heure</td>
+          <td>Forfait déplacement : 15€ / journée sur site (1 à 2 fois / semaine)</td>
+          <td>Service 100% à distance partout en France</td>
+        </tr>
+        <tr>
+          <td>Travaux urgents :<br> + 100% les samedi et dimanche</td>
+          <td>Travaux urgents : +25 % le samedi<br>et +50% le dimanche</td>
+          <td>Travaux urgents : +25 % le samedi<br>et +50% le dimanche</td>
+        </tr>
+      </tbody>
+    </table>
+    {{ .Content }}
+  </div>
+</div>
+
 {{ end }}

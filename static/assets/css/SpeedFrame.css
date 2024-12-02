@@ -1,0 +1,328 @@
+/* Default Base font style for small mobile screens (0-576px) */
+  html {
+    font-size: 14px; /* 1rem = 14px for mobile */
+  }
+
+/* Apply box-sizing: border-box to all elements */
+.block-group, .block, .block-group:after, .block:after, .block-group:before, .block:before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+/*Only if I use Float based grids */
+    /* Clearfix when using floats
+    .block-group::after {
+        content: "";
+        display: block;
+        clear: both;
+    }*/
+
+/* Reset browsers' default styles */
+.block-group:before, .block-group:after {
+    display: table;
+    content: "";
+    line-height: 0;
+  }
+
+  .block-group:after {
+    clear: both;
+  }
+
+  .block-group {
+    /* ul/li compatibility */
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+
+/* Base Grid Setup */
+/* Nested grid */ 
+  .block-group > .block-group {
+    clear: none;
+    float: left;
+    margin: 0 !important;
+  }
+
+/* Default block */
+  .block {
+    float: left;
+    width: 100%;
+  }
+  
+  .block-cc {
+    /* Centered horizontally and vertically (self-positioning) */
+    place-items: center;
+  }
+  
+  .block-ct {
+    /* Centered at the top */
+    place-items: center start;
+  }
+  
+  .block-cb {
+    /* Centered at the bottom */
+    place-items: center end;
+  }
+  
+  .block-rc {
+    /* Right-aligned and vertically centered */
+    place-items: center end;
+    justify-items: end;
+  }
+  
+  .block-lc {
+    /* Left-aligned and vertically centered */
+    place-items: center start;
+    justify-items: start;
+  }
+  
+  .block-tl {
+    /* Top-left alignment */
+    place-items: start start;
+  }
+  
+  .block-tr {
+    /* Top-right alignment */
+    place-items: start end;
+  }
+  
+  .block-bl {
+    /* Bottom-left alignment */
+    place-items: end start;
+  }
+  
+  .block-br {
+    /* Bottom-right alignment */
+    place-items: end end;
+  }
+  
+  .block-full {
+    /* Full width and height */
+    width: 100%;
+    height: 100%;
+  }
+  
+  /* Flexbox Utilities */
+  .flex {
+    display: flex;
+  }
+  
+  .flex-row {
+    flex-direction: row; /* Default row direction */
+  }
+  
+  .flex-column {
+    flex-direction: column; /* Column direction */
+  }
+  
+  /* Centering */
+  .flex-cc {
+    /* Flexbox: Centered horizontally and vertically */
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .flex-ct {
+    /* Flexbox: Centered at the top */
+    justify-content: center;
+    align-items: flex-start;
+  }
+  
+  .flex-cb {
+    /* Flexbox: Centered at the bottom */
+    justify-content: center;
+    align-items: flex-end;
+  }
+  
+  /* Alignment to Edges */
+  .flex-rc {
+    /* Right-aligned and vertically centered */
+    justify-content: flex-end;
+    align-items: center;
+  }
+  
+  .flex-lc {
+    /* Left-aligned and vertically centered */
+    justify-content: flex-start;
+    align-items: center;
+  }
+  
+  .flex-tl {
+    /* Top-left alignment */
+    justify-content: flex-start;
+    align-items: flex-start;
+  }
+  
+  .flex-tr {
+    /* Top-right alignment */
+    justify-content: flex-end;
+    align-items: flex-start;
+  }
+  
+  .flex-bl {
+    /* Bottom-left alignment */
+    justify-content: flex-start;
+    align-items: flex-end;
+  }
+  
+  .flex-br {
+    /* Bottom-right alignment */
+    justify-content: flex-end;
+    align-items: flex-end;
+  }
+  
+  /* Flexbox Full Width/Height */
+  .flex-full {
+    width: 100%;
+    height: 100%;
+  }
+  
+  /* Flexbox Spacing */
+  .flex-wrap {
+    flex-wrap: wrap;
+  }
+  
+  .flex-nowrap {
+    flex-wrap: nowrap;
+  }
+
+  /* Columns widths: set them in html directly in case you are NOT building mobile 1st. Otherwise use them within the media queries */
+  .w50 {
+    width: 50%;
+  }
+  .w16 {
+    width: 16,66%;
+  }
+  .w20 {
+    width: 20%;
+  }
+  .w25 {
+    width: 25%;
+  }
+  .w33 {
+    width: 33,33%;
+  }
+  .w40 {
+    width: 40%;
+  }
+  .w60 {
+    width: 60%;
+  }
+  .w66 {
+    width: 66,66%;
+  }
+  .w75 {
+    width: 75%;
+  }
+  .w80 {
+    width: 80%;
+  }
+  .w83 {
+    width: 83,33%;
+  }
+
+  /* If I want an element to span across the whole device width */
+  .vw100 {
+    width: 100vw;
+  }
+
+  /* If I want an element to span across the whole device height */
+  .vwh100 {
+    height: 100vh;
+  }
+
+  /* Create more classes for margins, paddings, borders, in rem unit */
+
+/* Responsive Global style */
+
+  :root {
+    font-size: 16px; /* 1rem = 16px */ /* Standard Websites:16px, Large Typography Websites: 18px, Small Typography Websites: 15px` or less (use with caution to maintain readability) */
+    --spacing-xsmall: 0.25rem; /* 4px */
+    --spacing-small: 0.5rem; /* 8px */
+    --spacing-default: 1rem; /* 16px */
+    --spacing-large: 2rem; /* 32px */
+    --spacing-xlarge: 3rem; /* 48px */
+    --spacing-xxlarge: 4rem; /* 64px */
+  }
+  
+  /* For even more consistency, I can apply the Golden ratio: scale up for headings 1.618rem, 2.618rem, 4.236rem, scale down for smaller text 0.618rem 0.382rem */ 
+  body {
+    font-size: 1rem;
+    margin: var(--spacing-default);
+    line-height: 1.6; /* Consistent readability */
+  }
+  
+  h1 {
+    font-size: 2.5rem; /* 40px */
+    margin-bottom: var(--spacing-large);
+  }
+
+  h2 {
+    font-size: 2rem; /* 32px */
+    margin-bottom: var(--spacing-default);    
+  }
+
+  h3 {
+    font-size: 1.75rem; /* 28px */
+    margin-bottom: var(--spacing-small);    
+  }
+
+  h4 {
+    font-size: 1.50rem; /* 24px */
+    margin-bottom: var(--spacing-small);    
+  }
+
+  h5 {
+    font-size: 1.25rem; /* 20px */
+    margin-bottom: var(--spacing-small);    
+  }
+
+  h6 {
+    font-size: 1rem; /* 16px */
+    margin-bottom: var(--spacing-small);    
+  }
+
+  /* Paragraphs are the default text size for articles, blog posts, or any block of text intended for easy reading */
+  p {
+    font-size: 1rem; /* 16px */
+    margin-bottom: var(--spacing-small);
+  }
+
+  /* Small text ogten used for Captions, Notes, Legal disclaimers, Metadata like dates or bylines) */
+  .small-text {
+    font-size: 0.875rem;
+  }
+  
+  section {
+    padding: var(--spacing-large);
+  }
+
+/* Media Queries and Popular Breakpoints, have 3 to 5 max 576–768px (36rem) for larger mobile devices or small tablets */
+/* Larger mobile device or small screens (576-768px) */
+@media (min-width: 36em) and (max-width: 48em) { /* 576px */
+    html {
+      font-size: 15px; /* 1rem = 14px or 15px */
+    }
+}
+
+/* Tablet or small desktops (768-992px) */
+@media (min-width: 48em) and (max-width: 62em) { /* 768px */
+    html {
+      font-size: 16px; /* 1rem = 15 or 16px */
+    }
+}
+
+/* Desktop (992-1200px) */
+@media (min-width: 62em) and (max-width: 75em) { /* 992px */
+    html {
+      font-size: 16px; /* 1rem = 16px */
+    }
+}
+
+/* Large screens (1200px+) */
+@media (min-width: 75em) { /* 1200px */
+    html {
+      font-size: 17px; /* 1rem = 17px or 18px */
+    }
+}
