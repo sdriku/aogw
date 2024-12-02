@@ -53,9 +53,13 @@
 
 <div class="container pt-4 pt-md-10 pb-4 pb-md-10">
   <div class="row justify-content-start">
-    <div class="col-12 col-md-8">
+    <div class="col-12">
       <div class="service service-single">
-        <div class="content">{{.Content}}</div>
+        <div class="content">{{.Content}}
+          {{ if .Params.button }}
+          <a class="button" style="text-decoration: none;" href="{{ .Params.buttonLink | relURL }}">{{ .Params.button }}</a>
+        {{ end }}
+        </div>
       </div>
     </div>
   </div>

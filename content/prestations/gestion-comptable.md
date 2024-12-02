@@ -1,48 +1,52 @@
 ---
-heroBackground: assets/img/gestion-comptable-w1900.jpg
-heroHeading: Gestion comptable (sous couvert d'un Expert-comptable ou d'un
-  Cabinet comptable)
-summary: Vous avez souvent plusieurs semaines de retard dans l’enregistrement de
-  vos écritures comptables ? Confiez-moi leur saisie et évitez ainsi le stress
-  de fin d’exercice.
+heroBackground: assets/img/gestion-comptable.webp
+heroHeading: Gestion Comptable
+summary: Optimisez votre comptabilité avec une assistance professionnelle!
 mainsection: "false"
 featured: true
 date: 2021-11-28T15:15:34+10:00
 title: Gestion comptable
 weight: 3
 icon: assets/img/service-icon-4.png
-description: A. OFFICE GESTION WEB peut aussi prendre en charge la saisie de vos
-  écritures Comptables.
+description: En retard sur vos écritures comptables ? Je gère saisies, TVA, factures et rapprochements bancaires, en accord avec votre expert-comptable, pour une gestion fluide!
+button: Contactez-moi
+buttonLink: contact
 ---
-Vous avez souvent plusieurs semaines de retard dans l’enregistrement de vos écritures comptables                                           ? Confiez-moi leur saisie et évitez ainsi le stress de fin d’exercice.
+### Vous avez plusieurs semaines de retard dans l’enregistrement de vos écritures comptables? Du suivi des écritures aux déclarations, je suis là pour vous épauler.
 
-### **ATTENTION : Afin d'être en règle avec l'Ordre des Experts   Comptables, je n'accepterai de saisir vos écritures comptables, à la condition que votre Cabinet Comptable ou votre Expert Comptable vous en donne l'autorisation, sinon cela est un délit de complicité, d'exercice illégal.**
+<br>
 
-## Toute entreprise, aussi petite soit-elle, se doit de tenir un Journal d’Achats, un Journal de Ventes et un Journal de Banque pour tenir sa comptabilité.
+Toute entreprise, aussi petite soit-elle, se doit de tenir un Journal d’Achats, un Journal de Ventes et un Journal de Banque pour tenir sa comptabilité.
 
-Aujourd’hui, la comptabilité est effectuée en ligne à l'aide de logiciels comptables. Cette comptabilité, tenue par un Cabinet comptable ou par un Expert-comptable permet aux entrepreneurs de voir si leur entreprise est viable en sortant à chaque fin d’exercice un bilan de l’entreprise.
+Besoin d'un soutien en gestion comptable? A. Office Gestion Web vous propose une assistance adaptée pour optimiser vos processus financiers. Que ce soit pour des saisies comptables ou le suivi rigoureux de vos factures, je travaille en coordination avec votre expert-comptable pour assurer une comptabilité fluide et conforme.
 
-Il faut savoir que la comptabilité prend du temps, beaucoup de temps. Il ne faut pas se tromper dans les chiffres.
-
-Afin de tenir une comptabilité au plus près de la réalité, nous avons besoin de vos factures d’achats (sans oublier vos facturettes !), de vos factures clients et de vos relevés bancaires.
+<br>
 
 Je n'interviens que pour des entreprises qui ont l'accord de leur Cabinet Comptable ou leur Expert-Comptable. 
 
 Il m'est arrivée de sous-traiter avec des Experts Comptables faisant partis de l'Ordre des Experts Comptables   (pour cause saisie de factures trop importantes) pour ventiler les écritures d'achats et les écritures de ventes des dossiers de leurs clients.
 
-Vous pouvez me faire confiance !
+Vous pouvez me faire confiance!
 
+<br>
 
+- Saisie des écritures comptables
+- Rapprochements bancaires
+- Déclaration de TVA (sous supervision d’un expert-comptable)
+- Création de devis/factures
+- Suivi des dépenses.
 
-QUELS SONT LES LOGICIELS DE COMPTABILITÉ UTILISES ?
+<br>
+
+Voici les logiciels de comptabilité avec lesquels je suis le plus efficace:
 
 * La gamme SAGE,
 * EBP,
 * ZEPHYR,
 * QUADRATUS de CEGID
 
-Votre Cabinet comptable ou votre Expert-comptable saisit vos écritures comptables sur un logiciel méconnu de A. OFFICE GESTION WEB ? cela importe peu, Armelle s'adapte, mais prévoir un léger temps d’adaptation.
-
 <br>
 
-### N’oubliez pas ! la saisie de vos écritures comptables peut se faire en télétravail, solution plus économique pour mes clients.
+##### N’oubliez pas! la saisie de vos écritures comptables peut se faire en télétravail, solution plus économique pour mes clients.
+
+<br>

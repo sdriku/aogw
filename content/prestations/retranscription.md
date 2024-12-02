@@ -1,23 +1,24 @@
 ---
-heroBackground: assets/img/retranscription-w1900.jpg
+heroBackground: assets/img/gestion-retranscription.webp
 heroHeading: Retranscription/transcription
-summary: Vous n’avez plus le temps ni l’envie de rédiger vos compte-rendus de
-  réunion, vos conclusions, vos requêtes ? Contactez-moi !
+summary: Vous n’avez plus le temps ni l’envie de rédiger vos compte-rendus de réunion, vos conclusions, vos requêtes? Contactez-moi!
 mainsection: "false"
 featured: true
 date: 2021-11-28T15:15:26+10:00
 title: Retranscription
 weight: 4
 icon: assets/img/service-icon-3.png
-description: A. OFFICE GESTION WEB retranscrit différents types de documents,
-  tels que rédaction de compte-rendu de réunion pour les Comités d’entreprise,
-  les CHSCT, les AG - rédaction de procès-verbaux - rédaction de thèses,
-  séminaires, mémoires - dictée numérique - conclusions, requêtes,
-  assignations...
+description: 'Débarrassez-vous de la transcription fastidieuse : comptes rendus, thèses, actes ou requêtes. Travail précis, méthodes adaptées et rendu de qualité!'
+button: Contactez-moi
+buttonLink: contact
 ---
-Vous n'avez plus le temps ni l'envie de rédiger vos comptes rendus de réunion, vos conclusions, vos requêtes, vos actes ... ? Envoyez-moi un enregistrement et je m´occupe de la rédaction.
+### Vous n'avez plus le temps ni l'envie de rédiger vos comptes rendus de réunion, vos conclusions, vos requêtes, vos actes ... 
 
-## La retranscription/transcription est un travail long et difficile, mais c'est une activité passionnante, exigeante, il faut énormément de concentration, mais le plus important est de rendre un travail de qualité.
+<br>
+
+Envoyez-moi un enregistrement et je m´occupe de la rédaction.
+
+La retranscription/transcription est un travail long et difficile, mais c'est une activité passionnante, exigeante, il faut énormément de concentration, mais le plus important est de rendre un travail de qualité.
 
 La retranscription/transcription est une passion, elle traite différents sujets, que ce soient économiques, scientifiques, politiques.... Elle requiert surtout une bonne orthographe, 
 
@@ -44,4 +45,6 @@ Ces retranscriptions peuvent être effectuées selon 3 méthodes :
 
 Votre secrétaire assistante de direction indépendante utilise le logiciel EXPRESS SCRIBE.
 
-### Armelle de A. OFFICE GESTION WEB possède une très bonne vitesse de frappe, une bonne orthographe, une bonne élocution !
+##### Armelle de A. OFFICE GESTION WEB possède une très bonne vitesse de frappe, une bonne orthographe, une bonne élocution!
+
+<br>

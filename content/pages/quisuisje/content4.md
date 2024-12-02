@@ -1,11 +1,11 @@
 ---
-title: Pourquoi me choisir ?
+title: Pourquoi me choisir?
 date: 2018-12-06T09:29:16+10:00
 mainsection: "false"
 description: Mon parcours
 weight: 4
 background: ""
-align: right
+align: blue
 button: Contactez-moi
 buttonLink: contact
 ---

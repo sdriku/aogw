@@ -1,34 +1,54 @@
 ---
-heroBackground: assets/img/gestion-administrative-w1900.jpg
-heroHeading: Gestion administrative
-summary: Vous n’avez plus temps pour gérer votre secrétariat, vous ne voulez pas
-  embaucher une secrétaire ou une assistante, vous voulez diminuer vos coûts !
-  Confiez-moi votre gestion administrative afin de gagner du temps et de
-  l’argent.
+heroBackground: assets/img/gestion-administrative.webp
+heroHeading: Gestion Administrative
+summary: Votre assistant personnel pour une gestion sans stress!
 mainsection: "false"
 featured: true
 date: 2021-11-18T12:33:46+10:00
 title: Gestion administrative
 weight: 1
 icon: assets/img/service-icon-1.png
-description: A. OFFICE GESTION WEB peut prendre en charge votre Gestion administrative.
+description: 'Confiez votre secrétariat à A. Office Gestion Web : gestion administrative personnalisée, gain de temps et efficacité pour vous recentrer sur l’essentiel!'
+button: Contactez-moi
+buttonLink: contact
 ---
-### Les entreprises n’ont pas de temps à perdre, elles doivent être productives.
+### Vous n’avez plus temps ou l'envie de gérer votre secrétariat? Confiez-moi votre gestion administrative afin de recentrer vos efforts sur votre coeur de métier.
 
-La gestion administrative prend du temps, beaucoup de temps. A. OFFICE GESTION WEB peut vous aider dans différentes tâches à accomplir, que ce soit en présentiel ou en distanciel, telles que :
+<br>
 
-* prise de RDV,
-* accueil téléphonique ou physique,
-* tenue d’agenda (Google agenda),
-* gestion des mails entrants et sortants,
-* rédaction de courriers et courriels, rédaction de notes...
-* mise en page, relecture,
-* prise de notes rapide en sténographie avec la méthode PREVOST DELAUNAY très appréciée par les entreprises,
-* création de formulaires,
-* transcription ou retranscription de courriers, courriels, contrats, compte-rendus opératoires, rapports, audits, compte- rendus de réunions, procès verbaux…
-* gestion de devis et factures,
-* Relances paiement...
+Que ce soit pour des besoins ponctuels ou réguliers, A. Office Gestion Web est là pour vous offrir une organisation optimale et personnalisée. 
 
-##### VOUS AVEZ D’AUTRES ATTENTES, N’ATTENDEZ-PAS, CONTACTEZ-MOI !
+Grâce à une expérience approfondie dans la gestion administrative et une maîtrise des outils modernes, nous vous permettons de gagner du temps tout en assurant un suivi rigoureux de vos documents et démarches:
 
-{{< img src="wallet-3200387_640-gestion-administrative.jpg" width="80%" height="auto" alt="" >}}
+1. **Gestion Administrative Courante**
+      - Prise de rendez-vous
+      - Gestion des appels téléphoniques
+      - Gestion et tenue d’agenda (notamment via Google Agenda)
+      - Gestion des mails entrants et sortants
+      - Classement et archivage des documents (papier et numérique)
+
+<br>
+
+1. **Création et Gestion de Documents**
+      - Rédaction de courriers, courriels, notes, et rapports
+      - Mise en page et relecture
+      - Création et gestion de formulaires, contrats, et autres documents professionnels
+      - Transcription et retranscription (courriers, contrats, procès-verbaux, compte-rendus de réunions, rapports d’audits, etc.)
+
+<br>
+
+3. **Gestion Comptable et Commerciale**
+      - Création et suivi de devis et factures
+      - Relance des paiements
+
+<br>
+
+4. **Support Polyvalent et Services Spécifiques**
+      - Prise de notes rapide en sténographie (méthode Prévost Delaunay)
+      - Gestion des services généraux (commandes de fournitures, suivi des inventaires)
+
+<br>
+
+##### VOUS AVEZ D’AUTRES ATTENTES, N’ATTENDEZ-PAS, CONTACTEZ-MOI!
+
+<br>

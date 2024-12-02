@@ -38,8 +38,31 @@
     }
   }
 
+#about-blue {
+  background: #206DBA;
+  width: calc(100vw - 20px); 
+}
+
+#about-blue h1 h2 h3 h4 h5 h6 {
+  color: white;
+}
+
+#about-blue p {
+  color: white;
+}
+
+#about-blue .btn-primary {
+  background-color: #0056b3;
+  border-color: #00408a;
+  padding: 0.75rem 1.5rem;
+}
+
+#about-blue .btn-primary:hover {
+  background-color: #00408a;
+}
+
 #about {
-  background: linear-gradient(135deg, #ffffff, #e6f2ff);;
+  background: white;
 }
 
 #about h2 {
@@ -78,11 +101,11 @@
 {{ $subpages := $headless.Resources.ByType "page" }}
 {{ $subpages := sort $subpages ".Params.weight" }}
 {{ range $subpages }}
-<div class="strip bg-cover bg-position-top bg-overlay" style="background-image: url('{{ .Params.background | relURL }}');">
-  <div class="container pt-5 pb-0" id="about">
+<div class="strip bg-cover bg-position-top bg-overlay" id="{{ if eq .Params.align "blue" }}about-blue{{ else }}about{{ end }}" style="background-image: url('{{ .Params.background | relURL }}');">
+  <div class="container pt-5 pb-0" id="{{ if eq .Params.align "blue" }}about-blue{{ else }}about{{ end }}" style="color:rgb(255, 255, 255)">
     <div class="row">
       <div class="col-12">
-        <h2 class="text-primary text-capitalize">{{ .Title }}</h2>
+        <h2 class="text-capitalize">{{ .Title }}</h2>
         {{ .Content }}
         {{ if .Params.button }}
           <a class="button" href="{{ .Params.buttonLink | relURL }}">{{ .Params.button }}</a>

@@ -5,7 +5,7 @@ mainsection: "false"
 description: Mon parcours
 weight: 2
 background: ""
-align: right
+align: blue
 button: Contactez-moi
 buttonLink: contact
 ---

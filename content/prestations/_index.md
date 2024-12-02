@@ -6,5 +6,5 @@ description: Voici les différentes prestations fournies par A. Office Gestion
   Web votre Assistante de Direction.
 heroBackground: assets/img/aogw-hero.jpg
 heroHeading: Mes Prestations
-heroSubHeading: Quelles tâches devriez-vous externaliser et pour quelles raisons ?
+heroSubHeading: Quelles tâches devriez-vous externaliser et pour quelles raisons?
 ---
