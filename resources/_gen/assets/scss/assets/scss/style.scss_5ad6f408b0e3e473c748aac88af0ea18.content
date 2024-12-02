@@ -12,7 +12,7 @@
   --white: #ffffff;
   --gray: #6c757d;
   --gray-dark: #343a40;
-  --primary: #206dba;
+  --primary: black;
   --secondary: #014382;
   --success: #28a745;
   --info: #17a2b8;
@@ -131,12 +131,12 @@ sup {
   top: -.5em; }
 
 a {
-  color: #206dba;
+  color: black;
   text-decoration: none;
   background-color: transparent;
   -webkit-text-decoration-skip: objects; }
   a:hover {
-    color: #5da0e3;
+    color: #333333;
     text-decoration: underline; }
 
 a:not([href]):not([tabindex]) {
@@ -1011,13 +1011,13 @@ mark,
 .table-primary,
 .table-primary > th,
 .table-primary > td {
-  background-color: #c1d6ec; }
+  background-color: #b8b8b8; }
 
 .table-hover .table-primary:hover {
-  background-color: #adc9e6; }
+  background-color: #ababab; }
   .table-hover .table-primary:hover > td,
   .table-hover .table-primary:hover > th {
-    background-color: #adc9e6; }
+    background-color: #ababab; }
 
 .table-secondary,
 .table-secondary > th,
@@ -1199,12 +1199,12 @@ mark,
   vertical-align: text-top !important; }
 
 .bg-primary {
-  background-color: #206dba !important; }
+  background-color: black !important; }
 
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
-  background-color: #19548e !important; }
+  background-color: black !important; }
 
 .bg-secondary {
   background-color: #014382 !important; }
@@ -1299,7 +1299,7 @@ button.bg-dark:focus {
   border-left: 0 !important; }
 
 .border-primary {
-  border-color: #206dba !important; }
+  border-color: black !important; }
 
 .border-secondary {
   border-color: #014382 !important; }
@@ -5279,10 +5279,10 @@ button.bg-dark:focus {
   color: #fff !important; }
 
 .text-primary {
-  color: #206dba !important; }
+  color: black !important; }
 
 a.text-primary:hover, a.text-primary:focus {
-  color: #19548e !important; }
+  color: black !important; }
 
 .text-secondary {
   color: #014382 !important; }
@@ -5370,7 +5370,7 @@ a.text-dark:hover, a.text-dark:focus {
   .hamburger.is-active .hamburger-inner,
   .hamburger.is-active .hamburger-inner::before,
   .hamburger.is-active .hamburger-inner::after {
-    background-color: #206dba; }
+    background-color: black; }
 
 .hamburger-box {
   width: 32px;
@@ -5385,7 +5385,7 @@ a.text-dark:hover, a.text-dark:focus {
   .hamburger-inner, .hamburger-inner::before, .hamburger-inner::after {
     width: 32px;
     height: 3px;
-    background-color: #206dba;
+    background-color: black;
     border-radius: 3px;
     position: absolute;
     transition-property: transform;
@@ -5644,7 +5644,7 @@ ol {
     flex: 1; }
 
 .header {
-  color: #206dba;
+  color: black;
   background-color: #ffffff;
   display: flex;
   justify-content: space-between;
@@ -5806,24 +5806,24 @@ ol {
         font-weight: regular;
         text-transform: uppercase;
         text-decoration: none;
-        color: #206dba; }
+        color: black; }
         .main-menu > ul > li > a:hover {
-          background: #206dba;
+          background: black;
           color: #ffffff;
           text-decoration: none; }
       .main-menu > ul > li.active > a {
-        background: #206dba;
+        background: black;
         text-decoration: none;
         color: #ffffff; }
         .main-menu > ul > li.active > a:hover {
           text-decoration: none;
-          background: #206dba;
+          background: black;
           transition: all 225ms ease-in 0s;
           color: #ffffff; }
 
 .main-menu-mobile {
   position: fixed;
-  background: #206dba;
+  background: black;
   top: 0;
   left: 0;
   width: 100%;
@@ -5936,7 +5936,7 @@ ul.social {
   .hamburger .hamburger-inner,
   .hamburger .hamburger-inner::before,
   .hamburger .hamburger-inner::after {
-    background: #206dba; }
+    background: black; }
   .hamburger .hamburger-inner::after {
     width: 18px;
     right: 0; }
@@ -5970,7 +5970,7 @@ ul.social {
   border: 2px solid #fff; }
 
 .title-1 {
-  color: #206dba;
+  color: black;
   font-size: 2.4rem;
   line-height: 1.2;
   font-family: "raleway-v34-latin", "Helvetica Neue", Arial, sans-serif, -apple-system; }
@@ -6054,7 +6054,7 @@ ul.social {
     .content h2 {
       line-height: 1.4; } }
 .content h3 {
-  color: #206dba;
+  color: black;
   line-height: 1.4;
   font-weight: 200;
   letter-spacing: 1px; }
@@ -6082,7 +6082,7 @@ ul.social {
       padding-top: 200px;
       padding-bottom: 100px; } }
   .intro h1 {
-    color: #206dba;
+    color: black;
     font-size: 2.4rem;
     line-height: 1.2;
     font-family: "raleway-v34-latin", "Helvetica Neue", Arial, sans-serif, -apple-system;
@@ -6137,13 +6137,13 @@ ul.social {
     transform: skewY(-5deg); }
 
 .strip-primary-gradient {
-  background-image: linear-gradient(to right, #206dba, #014382); }
+  background-image: linear-gradient(to right, black, #014382); }
 
 .strip-primary-gradient-top-bottom {
-  background-image: linear-gradient(to bottom, #206dba, #014382); }
+  background-image: linear-gradient(to bottom, black, #014382); }
 
 .strip-primary {
-  background-color: #206dba; }
+  background-color: black; }
 
 .strip-secondary {
   background-color: #014382; }
@@ -6208,7 +6208,7 @@ ul.social {
         font-size: 0.8rem;
         font-weight: 700; }
       .feature .feature-content p em {
-        color: #206dba;
+        color: black;
         font-style: normal; }
 
 .hero-image {
@@ -6293,10 +6293,49 @@ html {
   background-blend-mode: overlay; }
 
 .bg-primary {
-  background-color: #206dba; }
+  background-color: black; }
 
 .bg-secondary {
   background-color: #014382; }
+
+.services-section {
+  background: linear-gradient(to right, #f8f9fa, #ffffff);
+  padding: 3rem 1rem; }
+  .services-section .service-card {
+    background: #fff;
+    border: 1px solid #eaeaea;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 1.5rem;
+    margin-bottom: 1.5rem;
+    transition: transform 0.2s ease, box-shadow 0.2s ease; }
+    .services-section .service-card:hover {
+      transform: scale(1.02);
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15); }
+    .services-section .service-card .icon {
+      color: #007bff;
+      font-size: 2rem;
+      margin-bottom: 1rem; }
+    .services-section .service-card .title {
+      font-weight: bold;
+      font-size: 1.25rem;
+      margin-bottom: 0.5rem; }
+    .services-section .service-card .description {
+      font-size: 1rem;
+      color: #555; }
+  .services-section .cta-button {
+    display: block;
+    text-align: center;
+    background: #007bff;
+    color: #fff;
+    font-weight: bold;
+    padding: 1rem 2rem;
+    border-radius: 4px;
+    text-transform: uppercase;
+    margin: 2rem auto 0;
+    transition: background-color 0.2s ease; }
+    .services-section .cta-button:hover {
+      background: #0056b3; }
 
 .service-malin {
   margin-top: -4%; }
@@ -6344,7 +6383,7 @@ html {
   .work-summary .work-content {
     flex: 1;
     padding: 20px;
-    border-bottom: 2px solid #206dba; }
+    border-bottom: 2px solid black; }
     .work-summary .work-content .work-title {
       font-family: "raleway-v34-latin", "Helvetica Neue", Arial, sans-serif, -apple-system;
       font-size: 1.5rem; }
@@ -6355,7 +6394,7 @@ html {
 .page-work-single h1.title {
   font-size: 3rem;
   font-family: "raleway-v34-latin", "Helvetica Neue", Arial, sans-serif, -apple-system;
-  color: #206dba; }
+  color: black; }
 
 .page-work-single .work-image img {
   width: 100%;
@@ -6384,13 +6423,13 @@ html {
   height: 40px;
   width: 80%;
   margin-bottom: 15px;
-  border: 1px solid #206dba;
+  border: 1px solid black;
   font-family: "lora-v35-latin", "Helvetica Neue", Arial, sans-serif, -apple-system;
   font-weight: 600;
   font-size: 14px;
   color: #000000; }
   .form-control:focus {
-    border-color: #206dba;
+    border-color: black;
     box-shadow: none !important; }
   .form-control::placeholder {
     color: #014382; }
